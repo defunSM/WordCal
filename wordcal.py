@@ -9,7 +9,7 @@ def convert_File_to_Array(filename):  # Makes an array containing the file in an
 
     return array
 
-def sorting_algorithm(array):   # Makes an array out of an array that has been in an array.
+def sorting_algorithm(array):   # Makes a sorted array out of the previous array.
 
     sortedlist = []
 
