@@ -1,4 +1,7 @@
+#!/usr/bin/env python
 import sys, os
+
+from optparse import OptionParser
 
 def convert_File_to_Array(filename):  # Makes an array containing the file in an array.
 
@@ -53,15 +56,18 @@ def analyze_data(array):  # Calculates percentage of the text.
         print("'" + element + "'","\t\t", array[element], "\t", (array[element]/totalsum)*100.0,"%")
 
 
-def user_selection():   # Decide what to do with the program.
+def user_selection(filename=False):   # Decide what to do with the program.
 
     print("\n\nDeveloper: Salman Hossain\nVersion: 1.0.1a\n\n--------------WordCal--------------\n\n1) Analyze a file\n2) Quit Program\n\n     What would you like to do?\n")
     user_choice = input(" > ")
 
     if (user_choice == '1'):
 
-        print("What is the file that you want to analyze?")
-        userfile = input(" > ")
+        if filename != False:
+            userfile = filename
+        else:
+            print("What is the file that you want to analyze?")
+            userfile = input(" > ")
 
     elif (user_choice == '2'):
         print("Exiting Program...")
@@ -85,9 +91,9 @@ def user_selection():   # Decide what to do with the program.
     sortedlist = sorting_algorithm(newlist)
     noduplist = noduplicate(sortedlist)
 
-    print(newlist)
-    print(sortedlist)
-    print(noduplist)
+    # print(newlist)
+    # print(sortedlist)
+    # print(noduplist)
 
     analyze_data(noduplist)
 
@@ -95,7 +101,17 @@ def user_selection():   # Decide what to do with the program.
 
 def main():
 
-    user_selection()
+    parser = OptionParser()
+    parser.add_option("-f", "--filename")
+    options, arguments = parser.parse_args()
+
+    filename = options.filename
+
+
+    if filename:
+        user_selection(filename)
+    else:
+        user_selection()
 
 if __name__=="__main__":
     main()
