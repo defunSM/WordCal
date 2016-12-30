@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 import sys, os
 
+from nltk import word_tokenize
 from optparse import OptionParser
+from collections import Counter
+
 
 def convert_File_to_Array(filename):  # Makes an array containing the file in an array.
 
@@ -9,6 +12,12 @@ def convert_File_to_Array(filename):  # Makes an array containing the file in an
 
     for line in filename.readlines():
         array.append(line.strip("\n"))
+
+    return array
+
+def convert_File_to_Words(filename):
+
+    array = word_tokenize(filename.read().lower())
 
     return array
 
@@ -91,6 +100,7 @@ def user_selection(filename=False):   # Decide what to do with the program.
     sortedlist = sorting_algorithm(newlist)
     noduplist = noduplicate(sortedlist)
 
+
     # print(newlist)
     # print(sortedlist)
     # print(noduplist)
@@ -110,6 +120,56 @@ def main():
 
     if filename:
         user_selection(filename)
+        f = open(filename, 'r')
+        words = Counter(convert_File_to_Words(f))
+
+        # print(words.most_common(10))
+
+        outputfile = open('output.txt', 'w')
+        word_count = 0
+
+        for i in words.most_common(len(words)):
+            if "," in i[0]:
+                pass
+            elif "." in i[0]:
+                pass
+            elif ")" in i[0]:
+                pass
+            elif "(" in i[0]:
+                pass
+            elif "'" in i[0]:
+                pass
+            elif "`" in i[0]:
+                pass
+            elif ":" in i[0]:
+                pass
+            elif ";" in i[0]:
+                pass
+            elif "{" in i[0]:
+                pass
+            elif "}" in i[0]:
+                pass
+            elif ">" in i[0]:
+                pass
+            elif "<" in i[0]:
+                pass
+            elif i[0].isdigit():
+                pass
+            else:
+                # print(i[0], "-", i[1])
+
+                string = str(i[0]) + "-" + str(i[1])
+                word_count += i[1]
+
+                outputfile.write(string)
+                outputfile.write("\n")
+
+        # for i, e in words.items():
+
+        #     print(i, "-", e)
+        print("Word Count:", word_count)
+
+        f.close()
     else:
         user_selection()
 
