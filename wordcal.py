@@ -65,6 +65,95 @@ def analyze_data(array):  # Calculates percentage of the text.
         print("'" + element + "'","\t\t", array[element], "\t", (array[element]/totalsum)*100.0,"%")
 
 
+def wordanalysis(filename):
+
+    if filename:
+
+        # user_selection(filename)
+        f = open(filename, 'r')
+        words = Counter(convert_File_to_Words(f))
+
+        # print(words.most_common(10))
+
+        outputfile = open('output.txt', 'w')
+        word_count = 0
+
+        for i in words.most_common(len(words)):
+            if "," in i[0]:
+                pass
+            elif "." in i[0]:
+                pass
+            elif ")" in i[0]:
+                pass
+            elif "(" in i[0]:
+                pass
+            elif "'" in i[0]:
+                pass
+            elif "`" in i[0]:
+                pass
+            elif ":" in i[0]:
+                pass
+            elif ";" in i[0]:
+                pass
+            elif "{" in i[0]:
+                pass
+            elif "}" in i[0]:
+                pass
+            elif ">" in i[0]:
+                pass
+            elif "<" in i[0]:
+                pass
+            elif i[0].isdigit():
+                pass
+            else:
+                # print(i[0], "-", i[1])
+
+
+                word_count += i[1]
+
+
+        print("Word Count:", word_count)
+
+        for i in words.most_common(len(words)):
+            if "," in i[0]:
+                pass
+            elif "." in i[0]:
+                pass
+            elif ")" in i[0]:
+                pass
+            elif "(" in i[0]:
+                pass
+            elif "'" in i[0]:
+                pass
+            elif "`" in i[0]:
+                pass
+            elif ":" in i[0]:
+                pass
+            elif ";" in i[0]:
+                pass
+            elif "{" in i[0]:
+                pass
+            elif "}" in i[0]:
+                pass
+            elif ">" in i[0]:
+                pass
+            elif "<" in i[0]:
+                pass
+            elif i[0].isdigit():
+                pass
+            else:
+                # print(i[0], "-", i[1])
+
+                string = str(i[0]) + "," + str(i[1]) + "," + str(round(i[1]/word_count*100, 4)) + "%"
+
+                outputfile.write(string)
+                outputfile.write("\n")
+
+
+        f.close()
+    else:
+        user_selection()
+
 def user_selection(filename=False):   # Decide what to do with the program.
 
     print("\n\nDeveloper: Salman Hossain\nVersion: 1.0.1a\n\n--------------WordCal--------------\n\n1) Analyze a file\n2) Quit Program\n\n     What would you like to do?\n")
@@ -106,6 +195,7 @@ def user_selection(filename=False):   # Decide what to do with the program.
     # print(noduplist)
 
     analyze_data(noduplist)
+    wordanalysis(userfile)
 
     filename.close()
 
@@ -117,61 +207,13 @@ def main():
 
     filename = options.filename
 
-
     if filename:
-        user_selection(filename)
-        f = open(filename, 'r')
-        words = Counter(convert_File_to_Words(f))
 
-        # print(words.most_common(10))
+        wordanalysis(filename)
 
-        outputfile = open('output.txt', 'w')
-        word_count = 0
-
-        for i in words.most_common(len(words)):
-            if "," in i[0]:
-                pass
-            elif "." in i[0]:
-                pass
-            elif ")" in i[0]:
-                pass
-            elif "(" in i[0]:
-                pass
-            elif "'" in i[0]:
-                pass
-            elif "`" in i[0]:
-                pass
-            elif ":" in i[0]:
-                pass
-            elif ";" in i[0]:
-                pass
-            elif "{" in i[0]:
-                pass
-            elif "}" in i[0]:
-                pass
-            elif ">" in i[0]:
-                pass
-            elif "<" in i[0]:
-                pass
-            elif i[0].isdigit():
-                pass
-            else:
-                # print(i[0], "-", i[1])
-
-                string = str(i[0]) + "-" + str(i[1])
-                word_count += i[1]
-
-                outputfile.write(string)
-                outputfile.write("\n")
-
-        # for i, e in words.items():
-
-        #     print(i, "-", e)
-        print("Word Count:", word_count)
-
-        f.close()
     else:
         user_selection()
+
 
 if __name__=="__main__":
     main()
