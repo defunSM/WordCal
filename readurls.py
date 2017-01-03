@@ -63,7 +63,7 @@ def main():
     for line in f.readlines():
 
         call(["python", "webscrapper.py", "-l", line])
-        call(["python", "wordcal.py", "-f", "webfile.txt", "-l", "a"])
+        call(["python", "wordcal.py", "-f", "webfile.txt", "-s", "a"])
 
     f.close()
 
