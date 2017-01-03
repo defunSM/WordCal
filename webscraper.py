@@ -49,7 +49,7 @@ def main():
     #         f.write("\n")
 
     f.close()
-    print(Link, "[Completed]")
+    print(link, "[Completed]")
 
 
 

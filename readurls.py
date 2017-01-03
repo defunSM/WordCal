@@ -2,10 +2,12 @@
 
 import sys, os
 import requests
+from time import time
 
 from bs4 import BeautifulSoup
 from optparse import OptionParser
 from subprocess import call
+
 
 def scrap_for_all_links(link):
 
@@ -60,13 +62,16 @@ def main():
 
     f = open(options.filename, 'r')
 
+    t0 = time()
+
     for line in f.readlines():
 
-        call(["python", "webscrapper.py", "-l", line])
+        call(["python", "webscraper.py", "-l", line.split("\n")[0]])
         call(["python", "wordcal.py", "-f", "webfile.txt", "-s", "a"])
 
     f.close()
 
+    print("Time Finished:", round(time()-t0, 3), "s")
 
 
 

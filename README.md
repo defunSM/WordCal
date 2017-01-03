@@ -3,11 +3,26 @@ A python script program that will analyze the number of times a character is use
 
 ![image-of-wordcal](http://i.imgur.com/WcThoKx.png)
 
-#### Requirements:
+#### Module Requirements:
 * Python
+* nltk (punkt model)
+* bs4
+* lxml
 
 ##### Setting up WordCal:
-    Setting up WordCal is easy just download the wordcal.py
+1. Setting up WordCal is easy just download the the repo.
+2. pip install nltk, bs4, lxml
+3. download the nltk punkt model doing the following:
+
+Enter a python interpreter.
+import nltk
+type 'nltk.download()'
+Go to the Models section
+Click on the punkt under the identifier. 
+Click Download.
+
+4. Thats it.
+
     
 ##### Using WordCal:
     You can use WordCal by doing the following...
