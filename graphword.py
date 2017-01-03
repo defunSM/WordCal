@@ -36,6 +36,7 @@ def main():
     parser.add_option("-f", "--filename", help="Selects the file.")
     parser.add_option("-n", "--numberofwords", help="How many words to display.")
     parser.add_option("-l", "--legend", help="Choose to display legend.")
+    parser.add_option("-s", "--style", help="Choose to append all analysis.")
     options, arguments = parser.parse_args()
 
     if options.legend:
@@ -87,11 +88,11 @@ def main():
     }
 
 
-
+    titleofgraph = "Frequency of Words" + " ( " + options.filename + " )"
 
 # table-like data results in reconfiguration of the chart with no data manipulation
-    bar2 = Bar(data, values='Percentage %', label=['Word', 'Frequency'],
-               agg='mean', title="Frequency of Words", plot_width=1400, plot_height=800, legend=legend_value)
+    bar2 = Bar(data, values='Percentage %', label=['Frequency', 'Word'],
+               agg='mean', title=titleofgraph, plot_width=1400, plot_height=800, legend=legend_value)
 
     output_file("stacked_bar.html")
     show(bar2)

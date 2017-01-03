@@ -65,7 +65,7 @@ def analyze_data(array):  # Calculates percentage of the text.
         print("'" + element + "'","\t\t", array[element], "\t", (array[element]/totalsum)*100.0)
 
 
-def wordanalysis(filename):
+def wordanalysis(filename, style):
 
     if filename:
 
@@ -75,7 +75,7 @@ def wordanalysis(filename):
 
         # print(words.most_common(10))
 
-        outputfile = open('output.txt', 'w')
+        outputfile = open('output.txt', style)
         word_count = 0
 
         for i in words.most_common(len(words)):
@@ -219,7 +219,7 @@ def user_selection(filename=False):   # Decide what to do with the program.
     # print(noduplist)
 
     analyze_data(noduplist)
-    wordanalysis(userfile)
+    wordanalysis(userfile, 'w')
 
     filename.close()
 
@@ -227,13 +227,16 @@ def main():
 
     parser = OptionParser()
     parser.add_option("-f", "--filename")
+    parser.add_option("-s", "--style", default='w')
     options, arguments = parser.parse_args()
 
     filename = options.filename
 
+    style = options.style
+
     if filename:
 
-        wordanalysis(filename)
+        wordanalysis(filename, style)
 
     else:
         user_selection()
