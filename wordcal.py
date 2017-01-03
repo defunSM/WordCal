@@ -62,7 +62,7 @@ def analyze_data(array):  # Calculates percentage of the text.
         totalsum += array[element]
 
     for element in sorted(array):
-        print("'" + element + "'","\t\t", array[element], "\t", (array[element]/totalsum)*100.0,"%")
+        print("'" + element + "'","\t\t", array[element], "\t", (array[element]/totalsum)*100.0)
 
 
 def wordanalysis(filename):
@@ -103,6 +103,8 @@ def wordanalysis(filename):
                 pass
             elif "<" in i[0]:
                 pass
+            elif "=" in i[0]:
+                pass
             elif i[0].isdigit():
                 pass
             else:
@@ -139,12 +141,14 @@ def wordanalysis(filename):
                 pass
             elif "<" in i[0]:
                 pass
+            elif "=" in i[0]:
+                pass
             elif i[0].isdigit():
                 pass
             else:
                 # print(i[0], "-", i[1])
 
-                string = str(i[0]) + "," + str(i[1]) + "," + str(round(i[1]/word_count*100, 4)) + "%"
+                string = str(i[0]) + "," + str(i[1]) + "," + str(round(i[1]/word_count*100, 4))
 
                 outputfile.write(string)
                 outputfile.write("\n")
