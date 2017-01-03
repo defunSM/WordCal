@@ -1,7 +1,7 @@
 # WordCal
 A python script program that will analyze the number of times a character is used in a file.
 
-[image-of-wordcal](http://i.imgur.com/WcThoKx.png)
+![image-of-wordcal](http://i.imgur.com/WcThoKx.png)
 
 #### Requirements:
 * Python
