@@ -59,7 +59,15 @@ def main():
 
     if options.filename:
 
-        call(["python", "wordcal.py", "-f", options.filename])
+        if "/" in options.filename:
+
+            call(["python", "webscraper.py", "-l", options.filename])
+            call(["python", "wordcal.py", "-f", "webfile.txt"])
+
+        else:
+
+            call(["python", "wordcal.py", "-f", options.filename])
+
 
 
     if options.numberofwords:

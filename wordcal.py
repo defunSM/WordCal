@@ -105,6 +105,16 @@ def wordanalysis(filename):
                 pass
             elif "=" in i[0]:
                 pass
+            elif "^" in i[0]:
+                pass
+            elif "[" in i[0]:
+                pass
+            elif "]" in i[0]:
+                pass
+            elif "-" in i[0]:
+                pass
+            elif "_" in i[0]:
+                pass
             elif i[0].isdigit():
                 pass
             else:
@@ -142,6 +152,16 @@ def wordanalysis(filename):
             elif "<" in i[0]:
                 pass
             elif "=" in i[0]:
+                pass
+            elif "^" in i[0]:
+                pass
+            elif "[" in i[0]:
+                pass
+            elif "]" in i[0]:
+                pass
+            elif "-" in i[0]:
+                pass
+            elif "_" in i[0]:
                 pass
             elif i[0].isdigit():
                 pass
