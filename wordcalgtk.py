@@ -12,7 +12,6 @@ def getoutput():
     for line in f.readlines():
         array.append(line.split(","))
 
-
     f.close()
     return array
 
@@ -24,11 +23,20 @@ class TreeViewFilterWindow(Gtk.Window):
         Gtk.Window.__init__(self, title="Treeview Filter Demo")
         self.set_border_width(10)
 
+        self.notebook = Gtk.Notebook()
+        self.add(self.notebook)
+
         #Setting up the self.grid in which the elements are to be positionned
         self.grid = Gtk.Grid()
         self.grid.set_column_homogeneous(True)
         self.grid.set_row_homogeneous(True)
         self.add(self.grid)
+
+        self.notebook.append_page(self.grid, Gtk.Label("WordCal"))
+
+        self.label = Gtk.Label("Link:")
+        self.add(self.label)
+        self.notebook.append_page(self.label, Gtk.Label("WebScraper"))
 
         #Creating the ListStore model
         self.software_liststore = Gtk.ListStore(str, str, str)
