@@ -2,16 +2,17 @@
 A python script program that will analyze the number of times a character is used in a file.
 
 ![image-of-wordcal](http://i.imgur.com/WcThoKx.png)
-
+![gtkgui](http://i.imgur.com/mQ0USp3.png)
 #### Module Requirements:
 * Python
 * nltk (punkt model)
 * bs4
 * lxml
+* pandas
 
 ##### Setting up WordCal:
 1. Setting up WordCal is easy just download the the repo.
-2. pip install nltk, bs4, lxml
+2. pip install nltk, bs4, lxml, pandas
 3. download the nltk punkt model doing the following:
 
 Enter a python interpreter.
