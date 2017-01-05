@@ -2,6 +2,7 @@
 import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, GdkPixbuf
+from subprocess import call
 
 #list of tuples for each software, containing the software name, initial release, and main programming languages used
 def getoutput():
@@ -49,6 +50,7 @@ class TreeViewFilterWindow(Gtk.Window):
         self.grid2.add(self.textbox)
 
         self.linksearchbutton = Gtk.Button("Search")
+        self.linksearchbutton.connect("clicked", self.searchwordsinlink)
         self.grid2.add(self.linksearchbutton)
 
 
@@ -57,11 +59,11 @@ class TreeViewFilterWindow(Gtk.Window):
 
         width = 1400
         height = 840
-        pixbuf = GdkPixbuf.Pixbuf.new_from_file_at_size("graphpic.png", width, height)
+        self.pixbuf = GdkPixbuf.Pixbuf.new_from_file_at_size("graphpic.png", width, height)
 
 
         img = Gtk.Image.new_from_file("graphpic.png")
-        img.set_from_pixbuf(pixbuf)
+        img.set_from_pixbuf(self.pixbuf)
         self.notebook.append_page(img, Gtk.Label("Graph"))
 
 
@@ -109,6 +111,21 @@ class TreeViewFilterWindow(Gtk.Window):
         self.scrollable_treelist.add(self.treeview)
 
         self.show_all()
+
+    def searchwordsinlink(self, widget):
+
+        link = self.textbox.get_text()
+
+        print(link)
+
+        call(["python", "graphword.py", "-f", link])
+
+        software_list = getoutput()
+
+        self.software_liststore.clear()
+        for software_ref in software_list:
+            self.software_liststore.append(list(software_ref))
+        self.current_filter_language = None
 
     def language_filter_func(self, model, iter, data):
         """Tests if the language in the row is the one in the filter"""
