@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import gi
 gi.require_version('Gtk', '3.0')
-from gi.repository import Gtk
+from gi.repository import Gtk, GdkPixbuf
 
 #list of tuples for each software, containing the software name, initial release, and main programming languages used
 def getoutput():
@@ -10,7 +10,8 @@ def getoutput():
     array = []
 
     for line in f.readlines():
-        array.append(line.split(","))
+        words = line.split(",")
+        array.append([words[0], words[1], words[2].split("\n")[0]])
 
     f.close()
     return array
@@ -20,7 +21,7 @@ software_list = getoutput()
 class TreeViewFilterWindow(Gtk.Window):
 
     def __init__(self):
-        Gtk.Window.__init__(self, title="Treeview Filter Demo")
+        Gtk.Window.__init__(self, title="WordCal GUI")
         self.set_border_width(10)
 
         self.notebook = Gtk.Notebook()
@@ -34,9 +35,37 @@ class TreeViewFilterWindow(Gtk.Window):
 
         self.notebook.append_page(self.grid, Gtk.Label("WordCal"))
 
-        self.label = Gtk.Label("Link:")
+
+        self.grid2 = Gtk.Grid()
+        self.add(self.grid2)
+
+        self.label = Gtk.Label("Link:  ")
         self.add(self.label)
-        self.notebook.append_page(self.label, Gtk.Label("WebScraper"))
+        self.grid2.add(self.label)
+
+        self.textbox = Gtk.Entry()
+        self.textbox.set_width_chars(50)
+        self.textbox.set_text("https://en.wikipedia.org/wiki/Physics")
+        self.grid2.add(self.textbox)
+
+        self.linksearchbutton = Gtk.Button("Search")
+        self.grid2.add(self.linksearchbutton)
+
+
+
+        self.notebook.append_page(self.grid2, Gtk.Label("WebScraper"))
+
+        width = 1400
+        height = 840
+        pixbuf = GdkPixbuf.Pixbuf.new_from_file_at_size("graphpic.png", width, height)
+
+
+        img = Gtk.Image.new_from_file("graphpic.png")
+        img.set_from_pixbuf(pixbuf)
+        self.notebook.append_page(img, Gtk.Label("Graph"))
+
+
+
 
         #Creating the ListStore model
         self.software_liststore = Gtk.ListStore(str, str, str)
@@ -100,10 +129,6 @@ class TreeViewFilterWindow(Gtk.Window):
         print("%s language selected!" % self.current_filter_language)
         #we update the filter, which updates in turn the view
         self.language_filter.refilter()
-
-
-
-
 
 
 win = TreeViewFilterWindow()

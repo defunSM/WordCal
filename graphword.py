@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 import sys, os
+import glob
+
+from PIL import Image
+from selenium import webdriver
+from time import time
 
 from bokeh.charts import Bar, output_file, show
 from bokeh.layouts import row
@@ -88,14 +93,29 @@ def main():
     }
 
 
-    titleofgraph = "Frequency of Words" + " ( " + options.filename + " )"
+    titleofgraph = "Frequency of Words" + " ( " + str(options.filename) + " )"
 
 # table-like data results in reconfiguration of the chart with no data manipulation
     bar2 = Bar(data, values='Percentage %', label=['Frequency', 'Word'],
                agg='mean', title=titleofgraph, plot_width=1400, plot_height=800, legend=legend_value)
 
     output_file("stacked_bar.html")
-    show(bar2)
+
+#    show(bar2)
+
+    absfile_path = os.path.abspath("stacked_bar.html")
+    temp_name = "file://" + absfile_path
+
+    driver = webdriver.Chrome()
+    driver.set_window_size(1600, 1000)
+    driver.get(temp_name)
+    save_name = "graphpic.png"
+
+    # Fix white pics tat are taken.
+
+    driver.save_screenshot(save_name)
+    driver.implicitly_wait(20)
+    driver.quit()
 
 if __name__=="__main__":
     main()
