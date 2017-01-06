@@ -3,6 +3,8 @@ import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, GdkPixbuf
 from subprocess import call
+from nltk import sent_tokenize
+from time import time
 
 #list of tuples for each software, containing the software name, initial release, and main programming languages used
 def getoutput():
@@ -40,7 +42,7 @@ class TreeViewFilterWindow(Gtk.Window):
         self.grid2 = Gtk.Grid()
         self.add(self.grid2)
 
-        self.label = Gtk.Label("Link:  ")
+        self.label = Gtk.Label("LINK: ")
         self.add(self.label)
         self.grid2.add(self.label)
 
@@ -53,6 +55,30 @@ class TreeViewFilterWindow(Gtk.Window):
         self.linksearchbutton.connect("clicked", self.searchwordsinlink)
         self.grid2.add(self.linksearchbutton)
 
+        self.label2 = Gtk.Label("PDF:  ")
+        self.add(self.label2)
+
+        self.grid2.attach_next_to(self.label2, self.label, Gtk.PositionType.BOTTOM, 1, 2)
+
+        self.textbox2 = Gtk.Entry()
+        self.textbox2.set_width_chars(50)
+
+        self.grid2.attach_next_to(self.textbox2, self.label2, Gtk.PositionType.RIGHT, 2, 1)
+
+        self.button3 = Gtk.Button("Convert")
+        self.button3.connect("clicked", self.buttonclicked)
+        self.grid2.attach_next_to(self.button3, self.textbox2, Gtk.PositionType.RIGHT, 3, 1)
+
+        self.button4 = Gtk.Button("Search")
+        self.button4.connect("clicked", self.pdfbutton)
+        self.grid2.attach_next_to(self.button4, self.button3, Gtk.PositionType.RIGHT, 4, 1)
+
+        self.label3 = Gtk.Label("INFO: ")
+        self.add(self.label3)
+        self.grid2.attach_next_to(self.label3, self.label2, Gtk.PositionType.BOTTOM, 1, 3)
+
+        self.label4 = Gtk.Label("")
+        self.grid2.attach_next_to(self.label4, self.label3, Gtk.PositionType.BOTTOM, 1, 4)
 
 
         self.notebook.append_page(self.grid2, Gtk.Label("WebScraper"))
@@ -112,12 +138,51 @@ class TreeViewFilterWindow(Gtk.Window):
 
         self.show_all()
 
+    def pdfbutton(self, widget):
+
+        print("pdf button")
+
+        array = []
+        t0 = time()
+        wordsearch = self.textbox2.get_text()
+
+        for sentence in self.sentences:
+
+            if wordsearch in sentence:
+
+                array.append(sentence)
+
+        display = "/n".join(array)
+        t1 = time() - t0
+        t1 = str(round(t1, 3)) + " s"
+        self.label4.set_text(str(len(array)) + " Results " + t1)
+        print("Finished")
+
+
+
+
+
+    def buttonclicked(self, widget):
+
+        # Continue here and finish putting sentences using sent_tokenize into the
+        # pdfarray.
+
+        f = self.textbox2.get_text()
+
+        call(["python", "convert_pdf_to_txt.py", "-f", f])
+        print("PDF converted to alltext.txt file.")
+
+        self.pdfarray = []
+
+        filename = open('alltext.txt', 'r')
+
+        self.sentences = sent_tokenize(filename.read())
+
+        filename.close()
+
     def searchwordsinlink(self, widget):
 
         link = self.textbox.get_text()
-
-        print(link)
-
         call(["python", "graphword.py", "-f", link])
 
         software_list = getoutput()

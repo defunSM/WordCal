@@ -101,7 +101,7 @@ def main():
 
     output_file("stacked_bar.html")
 
-#    show(bar2)
+    show(bar2)
 
     absfile_path = os.path.abspath("stacked_bar.html")
     temp_name = "file://" + absfile_path
