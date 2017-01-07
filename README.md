@@ -4,11 +4,12 @@ A python script program that will analyze the number of times a character is use
 ![image-of-wordcal](http://i.imgur.com/WcThoKx.png)
 ![gtkgui](http://i.imgur.com/mQ0USp3.png)
 #### Module Requirements:
-* Python
+* Python3
 * nltk (punkt model)
 * bs4
 * lxml
 * pandas
+* gtk 3.0 (FOR the GUI)
 
 ##### Setting up WordCal:
 1. Setting up WordCal is easy just download the the repo.
