@@ -156,38 +156,16 @@ class TreeViewFilterWindow(Gtk.Window):
     def linkview_func(self, widget):
 
 
-        word = self.textbox.get_text()
+        # Make a combo box to display the other texts.
 
+        word = self.textbox.get_text()
         array = []
 
         for sentence in self.sentences:
-
             if word in sentence:
-
                 array.append(sentence)
 
-
-        betterarray = []
-
-        for sentence in array:
-
-            if "," in sentence:
-
-                betterarray.append(sentence.replace(",", "\n"))
-
-            if "." in sentence:
-
-                betterarray.append(sentence.replace(".", "\n"))
-
-        string = "\n".join([str(sentence) for sentence in betterarray])
-
-
-
-        print(string)
-
-        self.label4.set_text(betterarray[1])
-
-
+        self.label4.set_text(array[1])
 
 
     def viewbutton_func(self, widget):
