@@ -1,15 +1,22 @@
 # WordCal
-A python script program that will analyze the number of times a character is used in a file.
+A python script program that will analyze the number of times a word is used in a file or link.
 
 ![image-of-wordcal](http://i.imgur.com/WcThoKx.png)
 ![gtkgui](http://i.imgur.com/mQ0USp3.png)
 #### Module Requirements:
-* Python3
-* nltk (punkt model)
-* bs4
-* lxml
-* pandas
-* gtk 3.0 (FOR the GUI)
+      nltk==3.2.2
+      numpy==1.11.3
+      pandas=0.19.2
+      environ==1.0
+      lxml==1.11.3
+      selenium==3.0.2
+      bokeh==0.12.3
+      bs4==0.0.1
+      requests==2.12.4
+      beautifulsoup4==4.5.3
+      Pillow==4.0.0
+      pygobject==3.22.0
+
 
 ##### Setting up WordCal:
 1. Setting up WordCal is easy just download the the repo.

@@ -34,16 +34,16 @@ class TreeViewFilterWindow(Gtk.Window):
         self.grid = Gtk.Grid()
         self.grid.set_column_homogeneous(True)
         self.grid.set_row_homogeneous(True)
-        self.add(self.grid)
+
 
         self.notebook.append_page(self.grid, Gtk.Label("wordcal"))
 
 
         self.grid2 = Gtk.Grid()
-        self.add(self.grid2)
+
 
         self.label = Gtk.Label("link: ")
-        self.add(self.label)
+
         self.grid2.add(self.label)
 
         self.textbox = Gtk.Entry()
@@ -62,7 +62,7 @@ class TreeViewFilterWindow(Gtk.Window):
 
 
         self.label2 = Gtk.Label("pdf:  ")
-        self.add(self.label2)
+
 
         self.grid2.attach_next_to(self.label2, self.label, Gtk.PositionType.BOTTOM, 1, 2)
 
@@ -84,7 +84,7 @@ class TreeViewFilterWindow(Gtk.Window):
         self.grid2.attach_next_to(self.viewbutton, self.button4, Gtk.PositionType.RIGHT, 5, 1)
 
         self.label3 = Gtk.Label("INFO: ")
-        self.add(self.label3)
+
         self.grid2.attach_next_to(self.label3, self.label2, Gtk.PositionType.BOTTOM, 1, 3)
 
         self.label4 = Gtk.Label("")
@@ -156,37 +156,36 @@ class TreeViewFilterWindow(Gtk.Window):
     def linkview_func(self, widget):
 
 
-        pass
-        # word = self.textbox.get_text()
+        word = self.textbox.get_text()
 
-        # array = []
+        array = []
 
-        # for sentence in self.sentences:
+        for sentence in self.sentences:
 
-        #     if word in sentence:
+            if word in sentence:
 
-        #         array.append(sentence)
-
-
-        # betterarray = []
-
-        # for sentence in array:
-
-        #     if "," in sentence:
-
-        #         betterarray.append(sentence.replace(",", "\n"))
-
-        #     if "." in sentence:
-
-        #         betterarray.append(sentence.replace(".", "\n"))
-
-        # string = "\n".join([str(sentence) for sentence in betterarray])
+                array.append(sentence)
 
 
+        betterarray = []
 
-        # print(string)
+        for sentence in array:
 
-        # self.label4.set_text(string)
+            if "," in sentence:
+
+                betterarray.append(sentence.replace(",", "\n"))
+
+            if "." in sentence:
+
+                betterarray.append(sentence.replace(".", "\n"))
+
+        string = "\n".join([str(sentence) for sentence in betterarray])
+
+
+
+        print(string)
+
+        self.label4.set_text(betterarray[1])
 
 
 
