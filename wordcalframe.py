@@ -6,6 +6,7 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import pyqtSlot
 from subprocess import call
 from nltk import sent_tokenize
+from time import time
 
 class App(QMainWindow):
 
@@ -16,10 +17,18 @@ class App(QMainWindow):
         self.top = 10
         self.width = 640
         self.height = 480
+        self.initUI()
         self.initMenuBar()
 
         self.table_widget = MyTableWidget(self)
         self.setCentralWidget(self.table_widget)
+
+    def initUI(self):
+        self.setWindowTitle(self.title)
+        self.setGeometry(self.left, self.top,
+                         self.width, self.height)
+        self.statusBar().showMessage('Ready.')
+
 
     def initMenuBar(self):
 
@@ -29,8 +38,33 @@ class App(QMainWindow):
         editMenu = mainMenu.addMenu('Edit')
         viewMenu = mainMenu.addMenu('View')
 
+        exitButton = QAction(QIcon('exit24.png'), 'Exit', self)
+        exitButton.setShortcut('Ctrl+Q')
+        exitButton.setStatusTip('Exit application')
+        exitButton.triggered.connect(self.close)
+        fileMenu.addAction(exitButton)
+
+        searchButton = QAction('Search for a Word', self)
+        searchButton.setShortcut('Ctrl+S')
+        searchButton.setStatusTip('Looks for a Word in the List.')
+        searchButton.triggered.connect(self.on_view_searchword)
+        viewMenu.addAction(searchButton)
+
+        linkButton = QAction('Search Through a Link', self)
+        linkButton.setShortcut("Ctrl+L")
+        linkButton.setShortcut("Look through a link and scrap the link of all words.")
+        linkButton.triggered.connect(self.on_file_searchlink)
+        fileMenu.addAction(linkButton)
+
         self.show()
 
+    @pyqtSlot()
+    def on_file_searchlink(self):
+        print("Default")
+
+
+    def on_view_searchword(self):
+        print("H")
 
 class MyTableWidget(QWidget):
 
@@ -60,6 +94,7 @@ class MyTableWidget(QWidget):
 
         # Make textbox
         self.textbox = QLineEdit(self)
+        self.textbox.setText("https://en.wikipedia.org/wiki/Physics")
         self.textbox.resize(280,40)
         self.textbox.move(0,0)
         self.textbox.setMaximumSize(800,80)
@@ -108,6 +143,7 @@ class MyTableWidget(QWidget):
         elements = len(self.words)
         self.tableWidget.setRowCount(elements)
         self.tableWidget.setColumnCount(3)
+        self.tableWidget.setHorizontalHeaderLabels(["Word", "Frequency", "Percentage (%)"])
 
         for i in range(elements):
             self.tableWidget.setItem(i, 0, QTableWidgetItem(str(self.words[i])))
