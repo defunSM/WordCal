@@ -198,7 +198,7 @@ class TreeViewFilterWindow(Gtk.Window):
         display = "/n".join(array)
         t1 = time() - t0
         t1 = str(round(t1, 3)) + " s"
-        self.label4.set_text(str(len(array)) + " Results " + t1)
+        self.label4.set_text(display)
         print("Finished")
 
     def buttonclicked(self, widget):
