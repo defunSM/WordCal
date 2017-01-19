@@ -9,7 +9,7 @@ from nltk import sent_tokenize
 from time import time
 
 
-def scrapfromlink(link):
+def scrapfromlink(self, link):
 
     call(["python", "graphword.py", "-f", link])
 
@@ -42,6 +42,12 @@ def scrapfromlink(link):
 
     print("[Completed]")
     f.close()
+
+def scrapfromfile(self, link):
+
+    call(["pdftotext", link, "webfile.txt"])
+    scrapfromlink(self, link)
+    print("Completed.")
 
 
 class App(QMainWindow):
@@ -160,7 +166,10 @@ class MyTableWidget(QWidget):
 
         link = self.textbox.text()
 
-        scrapfromlink(link)
+        if "http" in link:
+            scrapfromlink(self, link)
+        else:
+            scrapfromfile(self, link)
 
 
 
