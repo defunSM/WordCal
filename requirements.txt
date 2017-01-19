@@ -1,8 +1,8 @@
 nltk==3.2.2
 numpy==1.11.3
-pandas=0.19.2
+pandas==0.19.2
 environ==1.0
-lxml==1.11.3
+lxml==3.7.2
 selenium==3.0.2
 bokeh==0.12.3
 bs4==0.0.1

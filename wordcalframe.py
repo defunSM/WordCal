@@ -8,6 +8,42 @@ from subprocess import call
 from nltk import sent_tokenize
 from time import time
 
+
+def scrapfromlink(link):
+
+    call(["python", "graphword.py", "-f", link])
+
+    webfile = open('webfile.txt', 'r')
+    self.sentences = sent_tokenize(webfile.read().lower())
+    webfile.close()
+
+    f = open("output.txt", 'r')
+    self.words = []
+    self.frequency = []
+    self.percentage = []
+
+    for line in f.readlines():
+
+        parts = line.split(",")
+
+        self.words.append(parts[0])
+        self.frequency.append(parts[1])
+        self.percentage.append(parts[2].split("\n")[0])
+
+    elements = len(self.words)
+    self.tableWidget.setRowCount(elements)
+    self.tableWidget.setColumnCount(3)
+    self.tableWidget.setHorizontalHeaderLabels(["Word", "Frequency", "Percentage (%)"])
+
+    for i in range(elements):
+        self.tableWidget.setItem(i, 0, QTableWidgetItem(str(self.words[i])))
+        self.tableWidget.setItem(i, 1, QTableWidgetItem(str(self.frequency[i])))
+        self.tableWidget.setItem(i, 2, QTableWidgetItem(str(self.percentage[i])))
+
+    print("[Completed]")
+    f.close()
+
+
 class App(QMainWindow):
 
     def __init__(self):
@@ -114,6 +150,8 @@ class MyTableWidget(QWidget):
         for currentQTableWidgetItem in self.tableWidget.selectedItems():
             print(currentQTableWidgetItem.row(), currentQTableWidgetItem.column(), currentQTableWidgetItem.text())
 
+
+
     def on_click_search(self):
         """
         This is the button in tab 1 that will cause the list to vew the output.txt file and create a table of it in
@@ -121,37 +159,10 @@ class MyTableWidget(QWidget):
         """
 
         link = self.textbox.text()
-        call(["python", "graphword.py", "-f", link])
 
-        webfile = open('webfile.txt', 'r')
-        self.sentences = sent_tokenize(webfile.read().lower())
-        webfile.close()
+        scrapfromlink(link)
 
-        f = open("output.txt", 'r')
-        self.words = []
-        self.frequency = []
-        self.percentage = []
 
-        for line in f.readlines():
-
-            parts = line.split(",")
-
-            self.words.append(parts[0])
-            self.frequency.append(parts[1])
-            self.percentage.append(parts[2].split("\n")[0])
-
-        elements = len(self.words)
-        self.tableWidget.setRowCount(elements)
-        self.tableWidget.setColumnCount(3)
-        self.tableWidget.setHorizontalHeaderLabels(["Word", "Frequency", "Percentage (%)"])
-
-        for i in range(elements):
-            self.tableWidget.setItem(i, 0, QTableWidgetItem(str(self.words[i])))
-            self.tableWidget.setItem(i, 1, QTableWidgetItem(str(self.frequency[i])))
-            self.tableWidget.setItem(i, 2, QTableWidgetItem(str(self.percentage[i])))
-
-        print("[Completed]")
-        f.close()
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
