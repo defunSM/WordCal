@@ -1,12 +1,55 @@
 #!/usr/bin/env python
 import sys
 
-from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QPushButton, QVBoxLayout, QTabWidget, QAction, QLineEdit, QTableWidget, QTableWidgetItem
-from PyQt5.QtGui import QIcon
+from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QPushButton, QVBoxLayout, QTabWidget, QAction, QLineEdit, QTableWidget, QTableWidgetItem, QFileDialog, QInputDialog
+from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.QtCore import pyqtSlot
 from subprocess import call
 from nltk import sent_tokenize
 from time import time
+
+class FileManager(QWidget):
+
+    def __init__(self):
+        super().__init__()
+        self.title = 'PyQt5 file dialogs - pythonspot.com'
+        self.left = 10
+        self.top = 10
+        self.width = 640
+        self.height = 480
+        self.initUI()
+
+    def initUI(self):
+        self.setWindowTitle(self.title)
+        self.setGeometry(self.left, self.top, self.width, self.height)
+
+        # self.openFileNameDialog()
+        self.openFileNamesDialog()
+        # self.saveFileDialog()
+
+        self.show()
+
+    def openFileNameDialog(self):
+        options = QFileDialog.Options()
+        options |= QFileDialog.DontUseNativeDialog
+        fileName, _ = QFileDialog.getOpenFileName(self,"QFileDialog.getOpenFileName()", "","All Files (*);;Python Files (*.py)", options=options)
+        if fileName:
+            print(fileName)
+
+
+    def openFileNamesDialog(self):
+        options = QFileDialog.Options()
+        options |= QFileDialog.DontUseNativeDialog
+        files, _ = QFileDialog.getOpenFileNames(self,"Select File", "","All Files (*);;Python Files (*.py)", options=options)
+        if files:
+            self.newtext = files
+
+    def saveFileDialog(self):
+        options = QFileDialog.Options()
+        options |= QFileDialog.DontUseNativeDialog
+        fileName, _ = QFileDialog.getSaveFileName(self,"QFileDialog.getSaveFileName()","","All Files (*);;Text Files (*.txt)", options=options)
+        if fileName:
+            print(fileName)
 
 
 def scrapfromlink(self, link):
@@ -86,15 +129,15 @@ class App(QMainWindow):
         exitButton.triggered.connect(self.close)
         fileMenu.addAction(exitButton)
 
-        searchButton = QAction('Search for a Word', self)
+        searchButton = QAction('Search for URLs', self)
         searchButton.setShortcut('Ctrl+S')
-        searchButton.setStatusTip('Looks for a Word in the List.')
+        searchButton.setStatusTip('Looks for a URLS in a link or file.')
         searchButton.triggered.connect(self.on_view_searchword)
-        viewMenu.addAction(searchButton)
+        fileMenu.addAction(searchButton)
 
-        linkButton = QAction('Search Through a Link', self)
-        linkButton.setShortcut("Ctrl+L")
-        linkButton.setShortcut("Look through a link and scrap the link of all words.")
+        linkButton = QAction('Search File for Words', self)
+        linkButton.setShortcut("Ctrl+F")
+        linkButton.setShortcut("Find all words in File.")
         linkButton.triggered.connect(self.on_file_searchlink)
         fileMenu.addAction(linkButton)
 
@@ -102,8 +145,10 @@ class App(QMainWindow):
 
     @pyqtSlot()
     def on_file_searchlink(self):
-        print("Default")
+        self.filemanager = FileManager()
+        print(self.filemanager.newtext)
 
+        self.table_widget.textbox.setText(str(self.filemanager.newtext[0]))
 
     def on_view_searchword(self):
         print("H")
@@ -119,15 +164,20 @@ class MyTableWidget(QWidget):
         self.tableWidget.move(0,0)
         self.tableWidget.doubleClicked.connect(self.on_click)
 
+
+
         # Initialize tab screen
         self.tabs = QTabWidget()
         self.tab1 = QWidget()
         self.tab2 = QWidget()
+        self.tab3 = QWidget()
         self.tabs.resize(840,640)
 
         # Add tabs
         self.tabs.addTab(self.tab1,"Scrapping")
         self.tabs.addTab(self.tableWidget,"View")
+        self.tabs.addTab(self.tab3, "Urls")
+
 
         # Create first tab
         self.tab1.layout = QVBoxLayout(self)

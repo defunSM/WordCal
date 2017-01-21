@@ -1,515 +1,200 @@
-Salman Hossain
-Analytical Chemistry
-Acid-Base Equilibrium and Buffers
-
-Purpose: The purpose of this experiment was to find the pH value of 8 different aqueous
-solutions using indicators. As well as constructing a buffer in order to find the pH value of an
-unknown solution. This is done using colorimetric analysis and using the HH equation.
-Procedure:
-Part 1:
-You will be working with nine aqueous solutions (table 3) and your unknown solution for
-this session. The equilibria, equilibrium constants, and the pKs provided should be used in all of
-the calculations. All solutions are 0.100 M.
-Part 2:
-1. In each of the 7 test tubes squirt an eyedropper full of 0.100 M HCH3O.
-2. Add 2-3 drops of the seven indicators, one of the each tube.
-3. Dispose of the contents of the tubes down the sink and rinse with water. They don’t have
-to be dry.
-Part 3:
-1. Clean 9 small test tubes; they do not need to be dry. Place a piece of paper beneath the
-test tube rack so that you can easily label the pH for each tube and the tubes that
-represent the unknown.
-2. Using the eyedropper squirt a dropper full of each of the 9 available buffers to the 8 test
-tubes. Try to have roughly the same level of liquid in each tube. Add your unknown to
-the 9th test tube to the same height as the others.
-3. Add 2-3 drops of your selected indicator to each tube.
-4. Compare the color of your unknown solution with each of the buffers.
-5. Dispose of the contents of the test tubes in the sink and rinse.
-Part 4:
-1. Your instructor will demonstrate how to calibrate and use a pH meter and will have
-scintillation vials of each of the 9 aqueous solutions from Lab 6 set up for you to use.
-2. After calibrating the pH with the standardized buffer solutions (pH 4, 7, 10).
-3. Take a look at the calculated pH and indicator pH range you got for each of the solutions
-last week.
-4. Next measure the pH of your unknown.
-5. Does your pH meter data for your unknown make sense based on the data you already
-have.
-6. Rinse the electrode with distilled water.
-
-Part 5:
-1. Using the method above calculate amounts of the solution necessary to prepare 50.0 of
-the assigned buffer. (9)
-2. Using a graduated cylinder, obtain sufficient volumes of your chosen pair to prepare 50
-mL of buffer.
-3. Using a separate graduated pipet for each solution add the appropriate amounts of the
-two components of the buffer.
-4. Calibrate a pH meter using the three calibration solutions (pH 4, 7, 10).
-5. Using calibrated pH meter determine the pH of your buffer and prevent
-cross-contamination.
-6. Using the calibrated pH meter determine the pH of your buffer and record the result in
-your lab notebook.
-7. If your buffer is at the desired pH, great; you’re done.
-Data Section:
-Table 3:
-HC2H3 C2H3O2^ H3PO
-HPO4
-O2
-4
-H3PO4^- ^2-
-
-PO4^3-
-
-NH3
-
-NH4^+
-
-NH4C2H
-3O2
-
-TB
-
-Yellow
-(3-7)
-
-Blue
-(10-12)
-
-Blue
-(10-12)
-
-Yellow
-(3-7)
-
-Yellow(3- Yellow(3
-7)
--7)
-
-BB
-
-Blueish
-Yellow
-Yellow Purple(5- Yellow
-(1-6) Blue(5-12) (0-2)
-12)
-(0-7)
-
-Blue
-(5-12)
-
-Blue
-(5-12)
 
-Blue
-(5-12)
 
-Blue
-(5-12)
 
-Blue
-(5-12)
+Biology/wiki/Evolutionary biology - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Biology/wiki/Evolutionary_biology","wgTitle":"Biology/wiki/Evolutionary biology","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biology/wiki/Evolutionary_biology","wgRelevantArticleId":0,"wgRequestId":"WILp7gpAADsAAC2zKy4AAABD","wgIsProbablyEditable":false,"wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
-BG
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
 
-Orang
-e (1-2)
 
-Blue
-(6-12)
 
-Yellow
-(0-2)
 
-Blue
-(6-12)
 
-Yellow
-(0-1)
 
-Blue
-(6-12)
 
-Blue
-(6-12)
 
-Blue
-(6-12)
 
-Blue
-(7-12)
 
-Blue
-(6-12)
 
-BP
 
-Green
-(3-5)
 
-Blue
-(7-12)
 
-Yellow
-(0-4)
 
-Yellow
-(0-4)
 
-Yellow Purple(7- Purple(7- Purple(7-1
-(0-4)
-12)
-12)
-2)
 
-Purple
-(7-12)
+ 
 
-Purple(712)
 
-BB
 
-Yellow
-(0-5)
 
-Blue
-(8-12)
 
-Yellow
-(0-5)
 
-Purple
-(6-7)
+Biology/wiki/Evolutionary biology
 
-Yellow
-(0-5)
+From Wikipedia, the free encyclopedia
 
-Purple
-(8-12)
 
-Purple
-(8-12)
+					Jump to:					navigation, 					search
 
-Purple
-(6-7)
+function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}
+Look for Biology/wiki/Evolutionary biology on one of Wikipedia's sister projects:
 
-Purple
-(6-7)
 
-Colorle
-ss
-CR (2-6)
 
-Blue
-(9-12)
+Wiktionary (free dictionary)
 
-Red
-1,7-8
 
-Yellow
-(0-6)
 
-Colorl
-ess
-(1-7)
+Wikibooks (free textbooks)
 
-Red
-(9-12)
 
-Red
-(9-12)
 
-Red (2-6) Red (2-6)
+Wikiquote (quotations)
 
-Colorles
-s (0-7)
 
-Colorl
-ess
-(0-7)
 
-Pink
-(8-9)
+Wikisource (free library)
 
-Pink 9
 
-Colorless( Colorless Colorles
-0-7)
-0-7
-s 0-7
 
-4.1
+Wikiversity (free learning resources)
 
-10.1
 
-12.97
 
-11.1
+Commons (images and media)
 
-P
-PH
 
-Yellow
-(3-7)
 
-Red 0
+Wikivoyage (free travel guide)
 
-Colorle
-Colorl
-ss
-Colorless( ess
-(0-7)
-0-7)
-(0-7)
-2.88
 
-3.74
 
-1.62
+Wikinews (free news source)
 
-(3-7)
 
-Red
-(0)
 
-Purple
-(8-12)
+Wikidata (free linked database)
 
-5.13
+Wikipedia does not have an article with this exact name. Please search for Biology/wiki/Evolutionary biology in Wikipedia to check for alternative titles or spellings.
+ Log in or create an account to start the Biology/wiki/Evolutionary biology article, alternatively use the Article Wizard, or add a request for it.
+ Search for "Biology/wiki/Evolutionary biology" in existing articles.
+ Look for pages within Wikipedia that link to this title.
 
-7
 
-Red
-(2-6)
+Other reasons this message may be displayed:
 
-N/A
+ If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes or try the purge function.
+ Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title.
+ If the page has been deleted, check the deletion log, and see Why was the page I created deleted?.
 
-PH
-Ran
-ge
 
-(0-7)
+ 
+						Retrieved from "https://en.wikipedia.org/wiki/Biology/wiki/Evolutionary_biology"					
+ 
 
-(0-7)
 
-(0-7)
 
-(0-7)
+Navigation menu
 
-(0-7)
 
-(5-12)
+Personal tools
 
-(5-12)
+Not logged inTalkContributionsCreate accountLog in 
 
-(5-12)
 
-(0-7)
 
-(5-12)
+Namespaces
 
-PH
-Met
-er
+Article
+Talk
 
-2.63
 
-7.62
 
-1.05
 
-4.19
+Variants
 
-8.62
 
-11.81
 
-10
 
-6.7
 
-7.37
 
-7.12
 
-Table 4: Standard Buffers and Colorimetric Analysis Data
-Indicator Used in Experimentation: HP04^2pH
 
-Color
 
-6.00
+Views
 
-Colorless
 
-6.40
 
-Colorless
 
-6.80
+More
 
-Colorless
 
-7.20
 
-Colorless
 
-7.60
 
-Colorless
 
-8.00
 
-Colorless
+Search
 
-8.40
 
-Colorless
 
-8.80
+ 
 
-Colorless
 
-Unknown (#)
 
-B
 
-Estimated unknown pH based on Color: _____7__________
 
-Results and Conclusions:
 
-●
 
-●
+Navigation
 
-●
 
-●
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
 
-●
 
-●
 
-●
+Interaction
 
-●
 
-●
+HelpAbout WikipediaCommunity portalRecent changesContact page 
 
-●
 
-●
 
-The goal of this experiment was to determine the weak acids and bases pH using pH
-indicators, standard buffer and pH meter. Another goal of this experiment was to find the
-pH of an unknown aqueous sample.
-The technique of the experiment was rather well. The results of the pH matched our
-predictions for each of the aqueous solutions. We made sure we added the right amount
-aqueous solution and resetting the pH meter.
-The sample pH’s were for the most part correct. The HPO4^-2 aqueous solution pH
-didn’t match up for our theoretical pH value but it wasn’t too off. As well as our
-theoretical pH value for PO4^3- which was off but was still able to identify it as an acid
-because of the theoretical pH calculated and wasn’t off by too much.
-Using the different indicators we did a colorimetric analysis to narrow down the pH.
-Since the color appears in a certain pH range using multiple indicators can help narrow
-down the possible pH values.
-There is a difference in value for the experimental and calculated pHs. However while
-the difference is slight this is because the theoretical calculated value may be different
-from the experiment because not everything reacted since the calculated value assumes
-that it is a 100 percent reactive reaction which often it isn’t.
-The process in which the pH is determined is called colorimetry. Since we used a pH
-value that is known which was the buffer. We added an indicator which we can compare
-the colors to the unknown with the same indicator and narrow down the pH estimation.
-Our best estimate for the pH of the unknown solution is between 6-7 since that is the
-narrowest pH range from our indicator tests using colorimetric analysis. Since the
-Bromothymol Blue indicator changed the solution to a purple color which means the pH
-must be within the range of 6-7.
-The solutions that we decided to go with was HPO4^2-1 and H2PO4 this is because this
-was the closest pH value to our unknown value since that would create a buffer around
-7.21. Using the Henderson Hasselbalch equation we find the pKa which is the closest to
-our estimated value for our unknown. Using M1V1 = M2V2 we can find the volume
-needed to reach the pH of our unknown. We were lower and did not meet the 7.21 and
-thus had to add more acid to our solution to adjust the pH. It was 7.12 so there was a
-absolute difference of 0.09.
-During the duration of the experiment it was observed that the pH meter would be
-calibrated with different amounts of the buffer and thus may produce random error in the
-experiment. This can affect the pH values of the experiment.
-One way to improve the experiment is to ensure that 100 percent of the solution has
-reacted. This would make our actual experimental pH values closer to the theoretical
-pHs calculated. As well as making sure that the calibration of the pH meter is done
-automatically rather than by hand reducing random error in the data that can affect pH
-values.
-I have learned about the HH equation which can be used to create a buffer and
-determine the amount of volume a solution to create a particular pH. As well as using
-colorimetry with 8 different indicators to determine pH values. One of the major
-conclusions for the experiment.
+Tools
 
-Sample Calculations:
-1)
 
-ka*kb = kw
-1.76*10^-5 * ko = 1.0 * 10^-14
-Kb = 5.68 * 10^-10
+What links hereUpload fileSpecial pagesPage information 
 
-2)
 
-5.64*10^-10 = (x)(x)/(.1)-x
-7.54*10^-6
-pH = -log(oH)
-pH = 3.73
 
-3)
+Languages
 
-7.52 * 10^-3 = (x)^2/.1-x
-X = .0239
-pH = -log(2.39x10^-2)
-pH = 1.62
 
-4)
 
-6.23*10^-8=(x^2)/(1-x)
-x= 7.89x10^-5
-pH = 4.10
 
-5)
 
-(x^2)/(.1-x) = 1.61 * 10^-1
-x= 1.27 * 10^-7
-p[oH] = 10.11
-PO4^3- + H2O -> HPO4^2- + OHKa = 2.2*10^-3
-Kb = .045
-X = .093
-pOH = -log(OH-)
-pOH = 1.03
-pH = 12.47
 
-6)
 
-7)
 
-1.79*10^-5 = x^2/.1-x
-X = 1.34*10^-3
-pOH = -log(1.34*10^-3)
-pH = 11.1
-NH3
-Kb = 1.79*10^-5
-pKb = 4.75
-1.79^-5 = (x^2)/(.1-x)
 
-8)
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
 
-9)
 
-kb = 1.79*10^-5
-Ka = 5.59 * 10 ^-10
-5.59*10^-10 = (x^2)/(.100)
-X = 7.48*10^-6
-pH = -log(7.4*10^-1)
-pH = 5.13
 
-pH of NH4 = 5.8
-pH of nitrate = 8.8
-(5.13 + 8.8)/2=7
-Unknown Solution:
-[HPO4^-2]/[H2PO4]=10^0.79
-61.66 + H2PO4 = HPO4^350 = 61.66z
-X = 49.186 mL
+ 
 
-
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":133,"wgHostname":"mw1264"});});
+
+
