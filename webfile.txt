@@ -1,12 +1,13 @@
 
 
 
-Physics - Wikipedia
+Chemistry - Wikipedia
 document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Physics","wgTitle":"Physics","wgCurRevisionId":761466151,"wgRevisionId":761466151,"wgArticleId":22939,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Wikipedia indefinitely semi-protected pages","Wikipedia indefinitely move-protected pages","Use dmy dates from January 2012","Wikipedia articles needing page number citations from November 2016","Wikipedia articles needing clarification from August 2015","Wikipedia external links cleanup from July 2015","Wikipedia spam cleanup from July 2015","Webarchive template wayback links","Articles with DMOZ links","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Physics","wgRelevantArticleId":22939,"wgRequestId":"WIV74ApAAEIAAdbfC6IAAAAM","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q413","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chemistry","wgTitle":"Chemistry","wgCurRevisionId":770470314,"wgRevisionId":770470314,"wgArticleId":5180,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","All articles lacking reliable references","Articles lacking reliable references from July 2010","CS1 maint: Multiple names: authors list","Pages using ISBN magic links","Wikipedia indefinitely semi-protected pages","Articles needing additional references from September 2014","All articles needing additional references","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chemistry","wgRelevantArticleId":5180,"wgRequestId":"WNfpwApAMFsAAKkl0F8AAABU","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2329","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
 
 
 
@@ -31,962 +32,640 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 
 
-Physics
+Chemistry
 
 From Wikipedia, the free encyclopedia
 
 
 					Jump to:					navigation, 					search
 
-function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}This article is about the field of science. For other uses, see Physics (disambiguation).
-Not to be confused with Physical science.
+For other uses, see Chemistry (disambiguation).
+"Chemical science" redirects here. For the Royal Society of Chemistry journal, see Chemical Science (journal).
 
 
 
 
-Various examples of physical phenomena
+Solutions of substances in reagent bottles, including ammonium hydroxide and nitric acid, illuminated in different colors
 
 
-Physics (from Ancient Greek: φυσική (ἐπιστήμη) phusikḗ (epistḗmē) "knowledge of nature", from φύσις phúsis "nature"[1][2][3]) is the natural science that involves the study of matter[4] and its motion and behavior through space and time, along with related concepts such as energy and force.[5] One of the most fundamental scientific disciplines, the main goal of physics is to understand how the universe behaves.[a][6][7][8]
-Physics is one of the oldest academic disciplines, perhaps the oldest through its inclusion of astronomy.[9] Over the last two millennia, physics was a part of natural philosophy along with chemistry, biology, and certain branches of mathematics, but during the scientific revolution in the 17th century, the natural sciences emerged as unique research programs in their own right.[b] Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms of other sciences[6] while opening new avenues of research in areas such as mathematics and philosophy.
-Physics also makes significant contributions through advances in new technologies that arise from theoretical breakthroughs. For example, advances in the understanding of electromagnetism or nuclear physics led directly to the development of new products that have dramatically transformed modern-day society, such as television, computers, domestic appliances, and nuclear weapons;[6] advances in thermodynamics led to the development of industrialization, and advances in mechanics inspired the development of calculus.
-The United Nations named 2005 the World Year of Physics.
+
+
+
+
+
+Chemistry
+
+
+
+
+
+History
+Outline
+Index
+Glossary
+Category
+Portal
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Chemistry is a branch of physical science that studies the composition, structure, properties and change of matter.[1][2] Chemistry includes topics such as the properties of individual atoms, how atoms form chemical bonds to create chemical compounds, the interactions of substances through intermolecular forces that give matter its general properties, and the interactions between substances through chemical reactions to form different substances.
+Chemistry is sometimes called the central science because it bridges other natural sciences, including physics, geology and biology.[3][4] For the differences between chemistry and physics see comparison of chemistry and physics.[5]
+The history of chemistry can be traced to alchemy, which had been practiced for several millennia in various parts of the world.
 
 
 
 Contents
 
 
-1 History
+1 Etymology
 
-1.1 Ancient astronomy
-1.2 Natural philosophy
-1.3 Physics in the medieval Islamic world
-1.4 Classical physics
-1.5 Modern physics
+1.1 Definition
 
 
-2 Philosophy
-3 Core theories
+2 History
 
-3.1 Classical physics
-3.2 Modern physics
-3.3 Difference between classical and modern physics
+2.1 Chemistry as science
+2.2 Chemical structure
 
 
-4 Relation to other fields
+3 Principles of modern chemistry
 
-4.1 Prerequisites
-4.2 Application and influence
+3.1 Matter
 
-
-5 Research
-
-5.1 Scientific method
-5.2 Theory and experiment
-5.3 Scope and aims
-5.4 Research fields
-
-5.4.1 Particle physics
-5.4.2 Atomic, molecular, and optical physics
-5.4.3 Condensed matter physics
-5.4.4 Astrophysics
+3.1.1 Atom
+3.1.2 Element
+3.1.3 Compound
+3.1.4 Molecule
+3.1.5 Substance and mixture
+3.1.6 Mole and amount of substance
 
 
+3.2 Phase
+3.3 Bonding
+3.4 Energy
+3.5 Reaction
+3.6 Ions and salts
+3.7 Acidity and basicity
+3.8 Redox
+3.9 Equilibrium
+3.10 Chemical laws
 
 
-6 Current research
-7 See also
-8 Notes
-9 References
-10 Sources
-11 Further reading
-12 External links
+4 Practice
+
+4.1 Subdisciplines
+4.2 Chemical industry
+4.3 Professional societies
+
+
+5 See also
+6 References
+7 Bibliography
+8 Further reading
+9 External links
 
 
 
+Etymology
+The word chemistry comes from alchemy, which referred to an earlier set of practices that encompassed elements of chemistry, metallurgy, philosophy, astrology, astronomy, mysticism and medicine. It is often seen as linked to the quest to turn lead or another common starting material into gold,[6] though in ancient times the study encompassed many of the questions of modern chemistry being defined as the study of the composition of waters, movement, growth, embodying, disembodying, drawing the spirits from bodies and bonding the spirits within bodies by the early 4th century Greek-Egyptian alchemist Zosimos.[7] An alchemist was called a 'chemist' in popular speech, and later the suffix "-ry" was added to this to describe the art of the chemist as "chemistry".
+The modern word alchemy in turn is derived from the Arabic word al-kīmīā (الکیمیاء). In origin, the term is borrowed from the Greek χημία or χημεία.[8][9] This may have Egyptian origins since al-kīmīā is derived from the Greek χημία, which is in turn derived from the word Chemi or Kimi, which is the ancient name of Egypt in Egyptian.[8] Alternately, al-kīmīā may derive from χημεία, meaning "cast together".[10]
+Definition
+In retrospect, the definition of chemistry has changed over time, as new discoveries and theories add to the functionality of the science. The term "chymistry", in the view of noted scientist Robert Boyle in 1661, meant the subject of the material principles of mixed bodies.[11] In 1663 the chemist Christopher Glaser described "chymistry" as a scientific art, by which one learns to dissolve bodies, and draw from them the different substances on their composition, and how to unite them again, and exalt them to a higher perfection.[12]
+The 1730 definition of the word "chemistry", as used by Georg Ernst Stahl, meant the art of resolving mixed, compound, or aggregate bodies into their principles; and of composing such bodies from those principles.[13] In 1837, Jean-Baptiste Dumas considered the word "chemistry" to refer to the science concerned with the laws and effects of molecular forces.[14] This definition further evolved until, in 1947, it came to mean the science of substances: their structure, their properties, and the reactions that change them into other substances - a characterization accepted by Linus Pauling.[15] More recently, in 1998, Professor Raymond Chang broadened the definition of "chemistry" to mean the study of matter and the changes it undergoes.[16]
 History
-Main article: History of physics
-Ancient astronomy
-Main article: History of astronomy
+Main article: History of chemistry
+See also: Alchemy and Timeline of chemistry
 
 
 
 
-Ancient Egyptian astronomy is evident in monuments like the ceiling of Senemut's tomb from the Eighteenth Dynasty of Egypt.
+Democritus' atomist philosophy was later adopted by Epicurus (341–270 BCE).
 
 
-Astronomy is the oldest of the natural sciences. The earliest civilizations dating back to beyond 3000 BCE, such as the Sumerians, ancient Egyptians, and the Indus Valley Civilization, all had a predictive knowledge and a basic understanding of the motions of the Sun, Moon, and stars. The stars and planets were often a target of worship, believed to represent their gods. While the explanations for these phenomena were often unscientific and lacking in evidence, these early observations laid the foundation for later astronomy.[9]
-According to Asger Aaboe, the origins of Western astronomy can be found in Mesopotamia, and all Western efforts in the exact sciences are descended from late Babylonian astronomy.[11] Egyptian astronomers left monuments showing knowledge of the constellations and the motions of the celestial bodies,[12] while Greek poet Homer wrote of various celestial objects in his Iliad and Odyssey; later Greek astronomers provided names, which are still used today, for most constellations visible from the northern hemisphere.[13]
-Natural philosophy
-Main article: Natural philosophy
-Natural philosophy has its origins in Greece during the Archaic period, (650 BCE – 480 BCE), when pre-Socratic philosophers like Thales rejected non-naturalistic explanations for natural phenomena and proclaimed that every event had a natural cause.[14] They proposed ideas verified by reason and observation, and many of their hypotheses proved successful in experiment;[15] for example, atomism was found to be correct approximately 2000 years after it was first proposed by Leucippus and his pupil Democritus.[16]
-Physics in the medieval Islamic world
-Main article: Physics in the medieval Islamic world
+Early civilizations, such as the Egyptians[17] Babylonians, Indians[18] amassed practical knowledge concerning the arts of metallurgy, pottery and dyes, but didn't develop a systematic theory.
+A basic chemical hypothesis first emerged in Classical Greece with the theory of four elements as propounded definitively by Aristotle stating that fire, air, earth and water were the fundamental elements from which everything is formed as a combination. Greek atomism dates back to 440 BC, arising in works by philosophers such as Democritus and Epicurus. In 50 BC, the Roman philosopher Lucretius expanded upon the theory in his book De rerum natura (On The Nature of Things).[19][20] Unlike modern concepts of science, Greek atomism was purely philosophical in nature, with little concern for empirical observations and no concern for chemical experiments.[21]
+In the Hellenistic world the art of alchemy first proliferated, mingling magic and occultism into the study of natural substances with the ultimate goal of transmuting elements into gold and discovering the elixir of eternal life.[22] Work, particularly the development of distillation, continued in the early Byzantine period with the most famous practitioner being the 4th century Greek-Egyptian Zosimos of Panopolis.[23] Alchemy continued to be developed and practised throughout the Arab world after the Muslim conquests,[24] and from there, and from the Byzantine remnants,[25] diffused into medieval and Renaissance Europe through Latin translations. Some influential Muslim chemists, Abū al-Rayhān al-Bīrūnī,[26] Avicenna[27] and Al-Kindi refuted the theories of alchemy, particularly the theory of the transmutation of metals; and al-Tusi described a version of the conservation of mass, noting that a body of matter is able to change but is not able to disappear.[28]
+Chemistry as science
 
 
 
 
-The basic way a pinhole camera works
+Jābir ibn Hayyān (Geber), a Persian alchemist whose experimental research laid the foundations of chemistry.
 
 
-Islamic scholarship had inherited Aristotelian physics from the Greeks and during the Islamic Golden Age developed it further, especially placing emphasis on observation and a priori reasoning, developing early forms of the scientific method.
-The most notable innovations were in the field of optics and vision, which came from the works of many scientists like Ibn Sahl, Al-Kindi, Ibn al-Haytham, Al-Farisi and Avicenna. The most notable work was The Book of Optics (also known as Kitāb al-Manāẓir), written by Ibn Al-Haitham, in which he was not only the first to disprove the ancient Greek idea about vision, but also came up with a new theory. In the book, he was also the first to study the phenomenon of the pinhole camera and delved further into the way the eye itself works. Using dissections and the knowledge of previous scholars, he was able to begin to explain how light enters the eye, is focused, and is projected to the back of the eye: and built then the world's first camera obscura hundreds of years before the modern development of photography.[17]
+The development of the modern scientific method was slow and arduous, but an early scientific method for chemistry began emerging among early Muslim chemists, beginning with the 9th century Persian or Arabian chemist Jābir ibn Hayyān (known as "Geber" in Europe), who is sometimes referred to as "the father of chemistry".[29][30][31][32] He introduced a systematic and experimental approach to scientific research based in the laboratory, in contrast to the ancient Greek and Egyptian alchemists whose works were largely allegorical and often unintelligble.[33] Under the influence of the new empirical methods propounded by Sir Francis Bacon and others, a group of chemists at Oxford, Robert Boyle, Robert Hooke and John Mayow began to reshape the old alchemical traditions into a scientific discipline. Boyle in particular is regarded as the founding father of chemistry due to his most important work, the classic chemistry text The Sceptical Chymist where the differentiation is made between the claims of alchemy and the empirical scientific discoveries of the new chemistry.[34] He formulated Boyle's law, rejected the classical "four elements" and proposed a mechanistic alternative of atoms and chemical reactions that could be subject to rigorous experiment.[35]
 
 
 
 
-Ibn al-Haytham (c. 965 - c. 1040), the pioneer of optics
+Antoine-Laurent de Lavoisier is considered the "Father of Modern Chemistry".[36]
 
 
-The seven-volume Book of Optics (Kitab al-Manathir) hugely influenced thinking across disciplines from the theory of visual perception to the nature of perspective in medieval art, in both the East and the West, for more than 600 years. Many later European scholars and fellow polymaths, from Robert Grosseteste and Leonardo da Vinci to René Descartes, Johannes Kepler and Isaac Newton, were in his debt. Indeed, the influence of Ibn al-Haytham's Optics ranks alongside that of Newton's work of the same title, published 700 years later.
-The translation of The Book of Optics had a huge impact on Europe. From it, later European scholars were able to build the same devices as what Ibn al-Haytham did, and understand the way light works. From this, such important things as eyeglasses, magnifying glasses, telescopes, and cameras were developed.
-Classical physics
-Main article: Classical physics
+The theory of phlogiston (a substance at the root of all combustion) was propounded by the German Georg Ernst Stahl in the early 18th century and was only overturned by the end of the century by the French chemist Antoine Lavoisier, the chemical analogue of Newton in physics; who did more than any other to establish the new science on proper theoretical footing, by elucidating the principle of conservation of mass and developing a new system of chemical nomenclature used to this day.[37]
+Before his work, though, many important discoveries had been made, specifically relating to the nature of 'air' which was discovered to be composed of many different gases. The Scottish chemist Joseph Black (the first experimental chemist) and the Dutchman J. B. van Helmont discovered carbon dioxide, or what Black called 'fixed air' in 1754; Henry Cavendish discovered hydrogen and elucidated its properties and Joseph Priestley and, independently, Carl Wilhelm Scheele isolated pure oxygen.
 
 
 
 
-Sir Isaac Newton (1643–1727), whose laws of motion and universal gravitation were major milestones in classical physics
+In his periodic table, Dmitri Mendeleev predicted the existence of 7 new elements,[38] and placed all 60 elements known at the time in their correct places.[39]
 
 
-Physics became a separate science when early modern Europeans used experimental and quantitative methods to discover what are now considered to be the laws of physics.[18][page needed]
-Major developments in this period include the replacement of the geocentric model of the solar system with the heliocentric Copernican model, the laws governing the motion of planetary bodies determined by Johannes Kepler between 1609 and 1619, pioneering work on telescopes and observational astronomy by Galileo Galilei in the 16th and 17th Centuries, and Isaac Newton's discovery and unification of the laws of motion and universal gravitation that would come to bear his name.[19] Newton also developed calculus,[c] the mathematical study of change, which provided new mathematical methods for solving physical problems.[20]
-The discovery of new laws in thermodynamics, chemistry, and electromagnetics resulted from greater research efforts during the Industrial Revolution as energy needs increased.[21] The laws comprising classical physics remain very widely used for objects on everyday scales travelling at non-relativistic speeds, since they provide a very close approximation in such situations, and theories such as quantum mechanics and the theory of relativity simplify to their classical equivalents at such scales. However, inaccuracies in classical mechanics for very small objects and very high velocities led to the development of modern physics in the 20th century.
-Modern physics
-Main article: Modern physics
-See also: History of special relativity and History of quantum mechanics
+English scientist John Dalton proposed the modern theory of atoms; that all substances are composed of indivisible 'atoms' of matter and that different atoms have varying atomic weights.
+The development of the electrochemical theory of chemical combinations occurred in the early 19th century as the result of the work of two scientists in particular, J. J. Berzelius and Humphry Davy, made possible by the prior invention of the voltaic pile by Alessandro Volta. Davy discovered nine new elements including the alkali metals by extracting them from their oxides with electric current.[40]
+British William Prout first proposed ordering all the elements by their atomic weight as all atoms had a weight that was an exact multiple of the atomic weight of hydrogen. J. A. R. Newlands devised an early table of elements, which was then developed into the modern periodic table of elements[41] in the 1860s by Dmitri Mendeleev and independently by several other scientists including Julius Lothar Meyer.[42][43] The inert gases, later called the noble gases were discovered by William Ramsay in collaboration with Lord Rayleigh at the end of the century, thereby filling in the basic structure of the table.
+Organic chemistry was developed by Justus von Liebig and others, following Friedrich Wöhler's synthesis of urea which proved that living organisms were, in theory, reducible to chemistry.[44] Other crucial 19th century advances were; an understanding of valence bonding (Edward Frankland in 1852) and the application of thermodynamics to chemistry (J. W. Gibbs and Svante Arrhenius in the 1870s).
+Chemical structure
 
 
 
 
-Albert Einstein (1879–1955), whose work on the photoelectric effect and the theory of relativity led to a revolution in 20th century physics
+Top: Expected results: alpha particles passing through the plum pudding model of the atom undisturbed.
+Bottom: Observed results: a small portion of the particles were deflected, indicating a small, concentrated charge.
 
 
+At the turn of the twentieth century the theoretical underpinnings of chemistry were finally understood due to a series of remarkable discoveries that succeeded in probing and discovering the very nature of the internal structure of atoms. In 1897, J. J. Thomson of Cambridge University discovered the electron and soon after the French scientist Becquerel as well as the couple Pierre and Marie Curie investigated the phenomenon of radioactivity. In a series of pioneering scattering experiments Ernest Rutherford at the University of Manchester discovered the internal structure of the atom and the existence of the proton, classified and explained the different types of radioactivity and successfully transmuted the first element by bombarding nitrogen with alpha particles.
+His work on atomic structure was improved on by his students, the Danish physicist Niels Bohr and Henry Moseley. The electronic theory of chemical bonds and molecular orbitals was developed by the American scientists Linus Pauling and Gilbert N. Lewis.
+The year 2011 was declared by the United Nations as the International Year of Chemistry.[45] It was an initiative of the International Union of Pure and Applied Chemistry, and of the United Nations Educational, Scientific, and Cultural Organization and involves chemical societies, academics, and institutions worldwide and relied on individual initiatives to organize local and regional activities.
+Principles of modern chemistry
 
 
 
 
-Max Planck (1858–1947), the originator of the theory of quantum mechanics
+Laboratory, Institute of Biochemistry, University of Cologne in Germany.
 
 
-Modern physics began in the early 20th century with the work of Max Planck in quantum theory and Albert Einstein's theory of relativity. Both of these theories came about due to inaccuracies in classical mechanics in certain situations. Classical mechanics predicted a varying speed of light, which could not be resolved with the constant speed predicted by Maxwell's equations of electromagnetism; this discrepancy was corrected by Einstein's theory of special relativity, which replaced classical mechanics for fast-moving bodies and allowed for a constant speed of light.[22] Black body radiation provided another problem for classical physics, which was corrected when Planck proposed that the excitation of material oscillators is possible only in discrete steps proportional to their frequency; this, along with the photoelectric effect and a complete theory predicting discrete energy levels of electron orbitals, led to the theory of quantum mechanics taking over from classical physics at very small scales.[23]
-Quantum mechanics would come to be pioneered by Werner Heisenberg, Erwin Schrödinger and Paul Dirac.[23] From this early work, and work in related fields, the Standard Model of particle physics was derived.[24] Following the discovery of a particle with properties consistent with the Higgs boson at CERN in 2012,[25] all fundamental particles predicted by the standard model, and no others, appear to exist; however, physics beyond the Standard Model, with theories such as supersymmetry, is an active area of research.[26] Areas of mathematics in general are important to this field, such as the study of probabilities and groups.
-Philosophy
-Main article: Philosophy of physics
-In many ways, physics stems from ancient Greek philosophy. From Thales' first attempt to characterise matter, to Democritus' deduction that matter ought to reduce to an invariant state, the Ptolemaic astronomy of a crystalline firmament, and Aristotle's book Physics (an early book on physics, which attempted to analyze and define motion from a philosophical point of view), various Greek philosophers advanced their own theories of nature. Physics was known as natural philosophy until the late 18th century.[27]
-By the 19th century, physics was realised as a discipline distinct from philosophy and the other sciences. Physics, as with the rest of science, relies on philosophy of science and its "scientific method" to advance our knowledge of the physical world.[28] The scientific method employs a priori reasoning as well as a posteriori reasoning and the use of Bayesian inference to measure the validity of a given theory.[29]
-The development of physics has answered many questions of early philosophers, but has also raised new questions. Study of the philosophical issues surrounding physics, the philosophy of physics, involves issues such as the nature of space and time, determinism, and metaphysical outlooks such as empiricism, naturalism and realism.[30]
-Many physicists have written about the philosophical implications of their work, for instance Laplace, who championed causal determinism,[31] and Erwin Schrödinger, who wrote on quantum mechanics.[32][33] The mathematical physicist Roger Penrose has been called a Platonist by Stephen Hawking,[34] a view Penrose discusses in his book, The Road to Reality.[35] Hawking refers to himself as an "unashamed reductionist" and takes issue with Penrose's views.[36]
-Core theories
-Further information: Branches of physics and Outline of physics
-Though physics deals with a wide variety of systems, certain theories are used by all physicists. Each of these theories were experimentally tested numerous times and found to be an adequate approximation of nature. For instance, the theory of classical mechanics accurately describes the motion of objects, provided they are much larger than atoms and moving at much less than the speed of light. These theories continue to be areas of active research today. Chaos theory, a remarkable aspect of classical mechanics was discovered in the 20th century, three centuries after the original formulation of classical mechanics by Isaac Newton (1642–1727).
-These central theories are important tools for research into more specialised topics, and any physicist, regardless of their specialisation, is expected to be literate in them. These include classical mechanics, quantum mechanics, thermodynamics and statistical mechanics, electromagnetism, and special relativity.
-Classical physics
-Main article: Classical physics
+The current model of atomic structure is the quantum mechanical model.[46] Traditional chemistry starts with the study of elementary particles, atoms, molecules,[47] substances, metals, crystals and other aggregates of matter. This matter can be studied in solid, liquid, or gas states, in isolation or in combination. The interactions, reactions and transformations that are studied in chemistry are usually the result of interactions between atoms, leading to rearrangements of the chemical bonds which hold atoms together. Such behaviors are studied in a chemistry laboratory.
+The chemistry laboratory stereotypically uses various forms of laboratory glassware. However glassware is not central to chemistry, and a great deal of experimental (as well as applied/industrial) chemistry is done without it.
+A chemical reaction is a transformation of some substances into one or more different substances.[48] The basis of such a chemical transformation is the rearrangement of electrons in the chemical bonds between atoms. It can be symbolically depicted through a chemical equation, which usually involves atoms as subjects. The number of atoms on the left and the right in the equation for a chemical transformation is equal. (When the number of atoms on either side is unequal, the transformation is referred to as a nuclear reaction or radioactive decay.) The type of chemical reactions a substance may undergo and the energy changes that may accompany it are constrained by certain basic rules, known as chemical laws.
+Energy and entropy considerations are invariably important in almost all chemical studies. Chemical substances are classified in terms of their structure, phase, as well as their chemical compositions. They can be analyzed using the tools of chemical analysis, e.g. spectroscopy and chromatography. Scientists engaged in chemical research are known as chemists.[49] Most chemists specialize in one or more sub-disciplines. Several concepts are essential for the study of chemistry; some of them are:[50]
+Matter
+Main article: Matter
+In chemistry, matter is defined as anything that has rest mass and volume (it takes up space) and is made up of particles. The particles that make up matter have rest mass as well - not all particles have rest mass, such as the photon. Matter can be a pure chemical substance or a mixture of substances.[51]
+Atom
 
 
 
 
-Classical physics implemented in an acoustic engineering model of sound reflecting from an acoustic diffuser
+A diagram of an atom based on the Rutherford model
 
 
-Classical physics includes the traditional branches and topics that were recognised and well-developed before the beginning of the 20th century—classical mechanics, acoustics, optics, thermodynamics, and electromagnetism. Classical mechanics is concerned with bodies acted on by forces and bodies in motion and may be divided into statics (study of the forces on a body or bodies not subject to an acceleration), kinematics (study of motion without regard to its causes), and dynamics (study of motion and the forces that affect it); mechanics may also be divided into solid mechanics and fluid mechanics (known together as continuum mechanics), the latter include such branches as hydrostatics, hydrodynamics, aerodynamics, and pneumatics. Acoustics is the study of how sound is produced, controlled, transmitted and received.[37] Important modern branches of acoustics include ultrasonics, the study of sound waves of very high frequency beyond the range of human hearing; bioacoustics, the physics of animal calls and hearing,[38] and electroacoustics, the manipulation of audible sound waves using electronics.[39]
-Optics, the study of light, is concerned not only with visible light but also with infrared and ultraviolet radiation, which exhibit all of the phenomena of visible light except visibility, e.g., reflection, refraction, interference, diffraction, dispersion, and polarization of light. Heat is a form of energy, the internal energy possessed by the particles of which a substance is composed; thermodynamics deals with the relationships between heat and other forms of energy. Electricity and magnetism have been studied as a single branch of physics since the intimate connection between them was discovered in the early 19th century; an electric current gives rise to a magnetic field, and a changing magnetic field induces an electric current. Electrostatics deals with electric charges at rest, electrodynamics with moving charges, and magnetostatics with magnetic poles at rest.
-Modern physics
-Main article: Modern physics
+The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space called the electron cloud. The nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus. In a neutral atom, the negatively charged electrons balance out the positive charge of the protons. The nucleus is dense; the mass of a nucleon is 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.[52][53]
+The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
+Element
 
 
-Modern physics
 
 
+Standard form of the periodic table of chemical elements. The colors represent different categories of elements
 
 
+Main article: Chemical element
+A chemical element is a pure substance which is composed of a single type of atom, characterized by its particular number of protons in the nuclei of its atoms, known as the atomic number and represented by the symbol Z. The mass number is the sum of the number of protons and neutrons in a nucleus. Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.[53]
+The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. The periodic table is arranged in groups, or columns, and periods, or rows. The periodic table is useful in identifying periodic trends.[54]
+Compound
 
 
 
 
+Carbon dioxide (CO2), an example of a chemical compound
 
-H
-^
 
+Main article: Chemical compound
+A compound is a pure chemical substance composed of more than one element. The properties of a compound bear little similarity to those of its elements.[55] The standard nomenclature of compounds is set by the International Union of Pure and Applied Chemistry (IUPAC). Organic compounds are named according to the organic nomenclature system.[56] The names for Inorganic compounds are created according to the inorganic nomenclature system. When a compound has more than one component, then they are divided into two classes, the electropositive and the electronegative components.[57] In addition the Chemical Abstracts Service has devised a method to index chemical substances. In this scheme each chemical substance is identifiable by a number known as its CAS registry number.
+Molecule
+Main article: Molecule
 
 
 
-|
 
+A ball-and-stick representation of the caffeine molecule (C8H10N4O2).
 
-ψ
 
-n
+A molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. However, this definition only works well for substances that are composed of molecules, which is not true of many substances (see below). Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
+Thus, molecules exist as electrically neutral units, unlike ions. When this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion. However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer. Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry. Some molecules contain one or more unpaired electrons, creating radicals. Most radicals are comparatively reactive, but some, such as nitric oxide (NO) can be stable.
 
 
-(
-t
-)
-⟩
-=
-i
-ℏ
 
 
-∂
+A 2-D skeletal model of a benzene molecule (C6H6)
 
-∂
-t
 
+The "inert" or noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit, but the other isolated chemical elements consist of either molecules or networks of atoms bonded to each other in some way. Identifiable molecules compose familiar substances such as water, air, and many organic compounds like alcohol, sugar, gasoline, and the various pharmaceuticals.
+However, not all substances or chemical compounds consist of discrete molecules, and indeed most of the solid substances that make up the solid crust, mantle, and core of the Earth are chemical compounds without molecules. These other types of substances, such as ionic compounds and network solids, are organized in such a way as to lack the existence of identifiable molecules per se. Instead, these substances are discussed in terms of formula units or unit cells as the smallest repeating structure within the substance. Examples of such substances are mineral salts (such as table salt), solids like carbon and diamond, metals, and familiar silica and silicate minerals such as quartz and granite.
+One of the main characteristics of a molecule is its geometry often called its structure. While the structure of diatomic, triatomic or tetra atomic molecules may be trivial, (linear, angular pyramidal etc.) the structure of polyatomic molecules, that are constituted of more than six atoms (of several elements) can be crucial for its chemical nature.
+Substance and mixture
 
 
 
-|
 
 
-ψ
 
-n
 
 
-(
-t
-)
-⟩
 
 
-{\displaystyle {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle }
 
+Examples of pure chemical substances. From left to right: the elements tin (Sn) and sulfur (S), diamond (an allotrope of carbon), sucrose (pure sugar), and sodium chloride (salt) and sodium bicarbonate (baking soda), which are both ionic compounds.
 
 
+A chemical substance is a kind of matter with a definite composition and set of properties.[58] A collection of substances is called a mixture. Examples of mixtures are air and alloys.[59]
+Mole and amount of substance
+Main article: Mole
+The mole is a unit of measurement that denotes an amount of substance (also called chemical amount). The mole is defined as the number of atoms found in exactly 0.012 kilogram (or 12 grams) of carbon-12, where the carbon-12 atoms are unbound, at rest and in their ground state.[60] The number of entities per mole is known as the Avogadro constant, and is determined empirically to be approximately 6.022×1023 mol−1.[61] Molar concentration is the amount of a particular substance per volume of solution, and is commonly reported in moldm−3.[62]
+Phase
 
 
 
 
+Example of phase changes
 
-1
 
+Main article: Phase
+In addition to the specific chemical properties that distinguish different chemical classifications, chemicals can exist in several phases. For the most part, the chemical classifications are independent of these bulk phase classifications; however, some more exotic phases are incompatible with certain chemical properties. A phase is a set of states of a chemical system that have similar bulk structural properties, over a range of conditions, such as pressure or temperature.
+Physical properties, such as density and refractive index tend to fall within values characteristic of the phase. The phase of matter is defined by the phase transition, which is when energy put into or taken out of the system goes into rearranging the structure of the system, instead of changing the bulk conditions.
+Sometimes the distinction between phases can be continuous instead of having a discrete boundary, in this case the matter is considered to be in a supercritical state. When three states meet based on the conditions, it is known as a triple point and since this is invariant, it is a convenient way to define a set of conditions.
+The most familiar examples of phases are solids, liquids, and gases. Many substances exhibit multiple solid phases. For example, there are three phases of solid iron (alpha, gamma, and delta) that vary based on temperature and pressure. A principal difference between solid phases is the crystal structure, or arrangement, of the atoms. Another phase commonly encountered in the study of chemistry is the aqueous phase, which is the state of substances dissolved in aqueous solution (that is, in water).
+Less familiar phases include plasmas, Bose–Einstein condensates and fermionic condensates and the paramagnetic and ferromagnetic phases of magnetic materials. While most familiar phases deal with three-dimensional systems, it is also possible to define analogs in two-dimensional systems, which has received attention for its relevance to systems in biology.
+Bonding
+Main article: Chemical bond
 
-c
 
 
-2
 
+An animation of the process of ionic bonding between sodium (Na) and chlorine (Cl) to form sodium chloride, or common table salt. Ionic bonding involves one atom taking valence electrons from another (as opposed to sharing, which occurs in covalent bonding)
 
 
+Atoms sticking together in molecules or crystals are said to be bonded with one another. A chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them.[63] More than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
+A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force. Each of these kinds of bonds is ascribed to some potential. These potentials create the interactions which hold atoms together in molecules or crystals. In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+An ionic bond is formed when a metal loses one or more of its electrons, becoming a positively charged cation, and the electrons are then gained by the non-metal atom, becoming a negatively charged anion. The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them. For example, sodium (Na), a metal, loses one electron to become an Na+ cation while chlorine (Cl), a non-metal, gains this electron to become Cl−. The ions are held together due to electrostatic attraction, and that compound sodium chloride (NaCl), or common table salt, is formed.
 
 
 
 
+In the methane molecule (CH4), the carbon atom shares a pair of valence electrons with each of the four hydrogen atoms. Thus, the octet rule is satisfied for C-atom (it has eight electrons in its valence shell) and the duet rule is satisfied for the H-atoms (they have two electrons in their valence shells).
 
 
-∂
+In a covalent bond, one or more pairs of valence electrons are shared by two atoms: the resulting electrically neutral group of bonded atoms is termed a molecule. Atoms will share valence electrons in such a way as to create a noble gas electron configuration (eight electrons in their outermost shell) for each atom. Atoms that tend to combine in such a way that they each have eight electrons in their valence shell are said to follow the octet rule. However, some elements like hydrogen and lithium need only two electrons in their outermost shell to attain this stable configuration; these atoms are said to follow the duet rule, and in this way they are reaching the electron configuration of the noble gas helium, which has two electrons in its outer shell.
+Similarly, theories from classical physics can be used to predict many ionic structures. With more complicated compounds, such as metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used. See diagram on electronic orbitals.
+Energy
+Main article: Energy
+In the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure. Since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved. Some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
+A reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse. A reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
+Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy. The speed of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor 
 
 
-2
 
 
-
-
-ϕ
-
-
-n
-
-
-
-
-
-∂
-t
-
-
-2
-
-
-
+e
 
 −
+E
 
+/
 
-
-∇
-
-
-2
-
-
-
-
-ϕ
-
-
-n
-
-
-
-+
-
-
-
-(
-
-
-
-m
-c
-
-ℏ
-
-
-)
-
-
-
-2
+k
+T
 
 
 
 
-ϕ
+{\displaystyle e^{-E/kT}}
+
+ - that is the probability of a molecule to have energy greater than or equal to E at the given temperature T. This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation. The activation energy necessary for a chemical reaction to occur can be in the form of heat, light, electricity or mechanical force in the form of ultrasound.[64]
+A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics. A reaction is feasible only if the total change in the Gibbs free energy is negative, 
 
 
-n
 
-
-=
+Δ
+G
+≤
 0
 
 
-{\displaystyle {\frac {1}{{c}^{2}}}{\frac {{\partial }^{2}{\phi }_{n}}{{\partial t}^{2}}}-{{\nabla }^{2}{\phi }_{n}}+{\left({\frac {mc}{\hbar }}\right)}^{2}{\phi }_{n}=0}
 
+{\displaystyle \Delta G\leq 0\,}
 
-Manifold Dynamics: Schrödinger and Klein-Gordon equations
+; if it is equal to zero the chemical reaction is said to be at equilibrium.
+There exist only limited possible states of energy for electrons, atoms and molecules. These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system. The atoms/molecules in a higher energy state are said to be excited. The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
+The phase of a substance is invariably determined by its energy and the energy of its surroundings. When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H2O); a liquid at room temperature because its molecules are bound by hydrogen bonds.[65] Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
+The transfer of energy from one chemical substance to another depends on the size of energy quanta emitted from one substance. However, heat energy is often transferred more easily from almost any substance to another because the phonons responsible for vibrational and rotational energy levels in a substance have much less energy than photons invoked for the electronic energy transfer. Thus, because vibrational and rotational energy levels are more closely spaced than electronic energy levels, heat is more easily transferred between substances relative to light or other forms of electronic energy. For example, ultraviolet electromagnetic radiation is not transferred with as much efficacy from one substance to another as thermal or electrical energy.
+The existence of characteristic energy levels for different chemical substances is useful for their identification by the analysis of spectral lines. Different kinds of spectra are often used in chemical spectroscopy, e.g. IR, microwave, NMR, ESR, etc. Spectroscopy is also used to identify the composition of remote objects - like stars and distant galaxies - by analyzing their radiation spectra.
 
 
 
 
 
-Founders
-Max Planck  · Albert Einstein  · Niels Bohr  · Max Born  · Werner Heisenberg  · Erwin Schrödinger  · Louis de Broglie  · Satyendra Nath Bose  · Wolfgang Pauli  · Paul Dirac
+Emission spectrum of iron
 
 
 
+The term chemical energy is often used to indicate the potential of a chemical substance to undergo a transformation through a chemical reaction or to transform other chemical substances.
+Reaction
+Main article: Chemical reaction
 
 
 
-Concepts
-Topology · space · time · energy · matter · work
-randomness · information · entropy · mind
-light · particle · wave
 
+During chemical reactions, bonds between atoms break and form, resulting in different substances with different properties. In a blast furnace, iron oxide, a compound, reacts with carbon monoxide to form iron, one of the chemical elements, and carbon dioxide.
 
 
+When a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred. A chemical reaction is therefore a concept related to the "reaction" of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both. It results in some energy exchange between the constituents of the reaction as well as with the system environment, which may be designed vessels—often laboratory glassware.
+Chemical reactions can result in the formation or dissociation of molecules, that is, molecules breaking apart to form two or more smaller molecules, or rearrangement of atoms within or across molecules. Chemical reactions usually involve the making or breaking of chemical bonds. Oxidation, reduction, dissociation, acid-base neutralization and molecular rearrangement are some of the commonly used kinds of chemical reactions.
+A chemical reaction can be symbolically depicted through a chemical equation. While in a non-nuclear chemical reaction the number and kind of atoms on both sides of the equation are equal, for a nuclear reaction this holds true only for the nuclear particles viz. protons and neutrons.[66]
+The sequence of steps in which the reorganization of chemical bonds may be taking place in the course of a chemical reaction is called its mechanism. A chemical reaction can be envisioned to take place in a number of steps, each of which may have a different speed. Many reaction intermediates with variable stability can thus be envisaged during the course of a reaction. Reaction mechanisms are proposed to explain the kinetics and the relative product mix of a reaction. Many physical chemists specialize in exploring and proposing the mechanisms of various chemical reactions. Several empirical rules, like the Woodward–Hoffmann rules often come in handy while proposing a mechanism for a chemical reaction.
+According to the IUPAC gold book, a chemical reaction is "a process that results in the interconversion of chemical species."[67] Accordingly, a chemical reaction may be an elementary reaction or a stepwise reaction. An additional caveat is made, in that this definition includes cases where the interconversion of conformers is experimentally observable. Such detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e. 'microscopic chemical events').
+Ions and salts
 
 
 
-Branches
-Applied · Experimental · Theoretical
-Philosophy of Science · Philosophy of physics
-Mathematical logic · Mathematical physics
-Supersymmetry · String theory · M-theory
-Grand Unified Theory · Standard model
-Quantum mechanics · Quantum field theory
-Antiparticle · Antimatter
-Electromagnetism · Quantum electrodynamics
-Weak interaction · Electroweak interaction
-Strong interaction · Quantum chromodynamics
-Particle physics · Nuclear physics
-Exotic matter · Higgs boson
-Atomic, molecular, and optical physics
-Condensed matter physics
-Quantum statistical mechanics
-Quantum information · Quantum computation
-Spintronics · Superconductivity
-Non-linear dynamics · Photonics · Biophysics
-Neurophysics · Quantum mind
-Plasma physics · Neutrino astronomy
-Special relativity · General relativity
-Scale relativity · Spacetime symmetries
-Dark matter · Dark energy
-Fractal analysis · Quantum chaos
-Emergence · Complex systems
-Black Holes · Holographic principle
-Astrophysics · Observable universe
-Big Bang · Cosmology
-Theories of gravitation · Loop quantum gravity
-Quantum gravity · Theory of Everything
-Mathematical universe hypothesis · Multiverse · Weak Gravity Conjecture
 
+The crystal lattice structure of potassium chloride (KCl), a salt which is formed due to the attraction of K+ cations and Cl− anions. Note how the overall charge of the ionic compound is zero.
 
 
+Main article: Ion
+An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na+ and Cl− ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH−) and phosphate (PO43−).
+Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
+Acidity and basicity
 
 
 
-Scientists
-Röntgen · Becquerel · Lorentz · Planck · Curie · Wien · Skłodowska-Curie · Sommerfeld · Rutherford · Soddy · Onnes · Einstein · Wilczek · Born · Weyl · Bohr · Schrödinger · de Broglie · Laue · Bose · Compton · Pauli · Walton · Fermi · Waals · Heisenberg · Dyson · Zeeman · Moseley · Hilbert · Gödel · Jordan · Dirac · Wigner · Hawking · P.W Anderson · Lemaître · Thomson · Poincaré · Wheeler · Penrose · Millikan · Nambu · von Neumann · Higgs · Hahn · Feynman · Lee · Lenard · Salam · 't Hooft · Bell · Gell-Mann · J. J. Thomson  · Raman · Bragg · Bardeen · Shockley · Chadwick · Lawrence · Zeilinger
 
+When hydrogen bromide (HBr), pictured, is dissolved in water, it forms the strong acid hydrobromic acid
 
 
+Main article: Acid–base reaction
+A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states than an acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted–Lowry acid–base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges.[68] There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.[69]
+Acid strength is commonly measured by two methods. One measurement, based on the Arrhenius definition of acidity, is pH, which is a measurement of the hydronium ion concentration in a solution, as expressed on a negative logarithmic scale. Thus, solutions that have a low pH have a high hydronium ion concentration, and can be said to be more acidic. The other measurement, based on the Brønsted–Lowry definition, is the acid dissociation constant (Ka), which measures the relative ability of a substance to act as an acid under the Brønsted–Lowry definition of an acid. That is, substances with a higher Ka are more likely to donate hydrogen ions in chemical reactions than those with lower Ka values.
+Redox
+Main article: Redox
+Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers.
+A reductant transfers electrons to another substance, and is thus oxidized itself. And because it "donates" electrons it is also called an electron donor. Oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur. Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
+Equilibrium
+Main article: Chemical equilibrium
+Although the concept of equilibrium is widely used across sciences, in the context of chemistry, it arises whenever a number of different states of the chemical composition are possible, as for example, in a mixture of several chemical compounds that can react with one another, or when a substance can be present in more than one kind of phase.
+A system of chemical substances at equilibrium, even though having an unchanging composition, is most often not static; molecules of the substances continue to react with one another thus giving rise to a dynamic equilibrium. Thus the concept describes the state in which the parameters such as chemical composition remain unchanged over time.
+Chemical laws
+Main article: Chemical law
+Chemical reactions are governed by certain laws, which have become fundamental concepts in chemistry. Some of them are:
 
 
+Avogadro's law
+Beer–Lambert law
+Boyle's law (1662, relating pressure and volume)
+Charles's law (1787, relating volume and temperature)
+Fick's laws of diffusion
+Gay-Lussac's law (1809, relating pressure and temperature)
+Le Chatelier's principle
+Henry's law
+Hess's law
+Law of conservation of energy leads to the important concepts of equilibrium, thermodynamics, and kinetics.
+Law of conservation of mass continues to be conserved in isolated systems, even in modern physics. However, special relativity shows that due to mass–energy equivalence, whenever non-material "energy" (heat, light, kinetic energy) is removed from a non-isolated system, some mass will be lost with it. High energy losses result in loss of weighable amounts of mass, an important topic in nuclear chemistry.
+Law of definite composition, although in many systems (notably biomacromolecules and minerals) the ratios tend to require large numbers, and are frequently represented as a fraction.
+Law of multiple proportions
+Raoult's law
 
 
-v
-t
-e
+Practice
+Subdisciplines
 
 
 
 
 
+This article relies largely or entirely upon a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing citations to additional sources. (September 2014)
 
 
+Chemistry is typically divided into several major sub-disciplines. There are also several main cross-disciplinary and more specialized fields of chemistry.[70]
 
+Analytical chemistry is the analysis of material samples to gain an understanding of their chemical composition and structure. Analytical chemistry incorporates standardized experimental methods in chemistry. These methods may be used in all subdisciplines of chemistry, excluding purely theoretical chemistry.
+Biochemistry is the study of the chemicals, chemical reactions and chemical interactions that take place in living organisms. Biochemistry and organic chemistry are closely related, as in medicinal chemistry or neurochemistry. Biochemistry is also associated with molecular biology and genetics.
+Inorganic chemistry is the study of the properties and reactions of inorganic compounds. The distinction between organic and inorganic disciplines is not absolute and there is much overlap, most importantly in the sub-discipline of organometallic chemistry.
+Materials chemistry is the preparation, characterization, and understanding of substances with a useful function. The field is a new breadth of study in graduate programs, and it integrates elements from all classical areas of chemistry with a focus on fundamental issues that are unique to materials. Primary systems of study include the chemistry of condensed phases (solids, liquids, polymers) and interfaces between different phases.
+Neurochemistry is the study of neurochemicals; including transmitters, peptides, proteins, lipids, sugars, and nucleic acids; their interactions, and the roles they play in forming, maintaining, and modifying the nervous system.
+Nuclear chemistry is the study of how subatomic particles come together and make nuclei. Modern Transmutation is a large component of nuclear chemistry, and the table of nuclides is an important result and tool for this field.
+Organic chemistry is the study of the structure, properties, composition, mechanisms, and reactions of organic compounds. An organic compound is defined as any compound based on a carbon skeleton.
+Physical chemistry is the study of the physical and fundamental basis of chemical systems and processes. In particular, the energetics and dynamics of such systems and processes are of interest to physical chemists. Important areas of study include chemical thermodynamics, chemical kinetics, electrochemistry, statistical mechanics, spectroscopy, and more recently, astrochemistry.[71] Physical chemistry has large overlap with molecular physics. Physical chemistry involves the use of infinitesimal calculus in deriving equations. It is usually associated with quantum chemistry and theoretical chemistry. Physical chemistry is a distinct discipline from chemical physics, but again, there is very strong overlap.
+Theoretical chemistry is the study of chemistry via fundamental theoretical reasoning (usually within mathematics or physics). In particular the application of quantum mechanics to chemistry is called quantum chemistry. Since the end of the Second World War, the development of computers has allowed a systematic development of computational chemistry, which is the art of developing and applying computer programs for solving chemical problems. Theoretical chemistry has large overlap with (theoretical and experimental) condensed matter physics and molecular physics.
+
+Other disciplines within chemistry are traditionally grouped by the type of matter being studied or the kind of study. These include inorganic chemistry, the study of inorganic matter; organic chemistry, the study of organic (carbon-based) matter; biochemistry, the study of substances found in biological organisms; physical chemistry, the study of chemical processes using physical concepts such as thermodynamics and quantum mechanics; and analytical chemistry, the analysis of material samples to gain an understanding of their chemical composition and structure. Many more specialized disciplines have emerged in recent years, e.g. neurochemistry the chemical study of the nervous system (see subdisciplines).
+Other fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, electrochemistry, environmental chemistry, femtochemistry, flavor chemistry, flow chemistry, geochemistry, green chemistry, histochemistry, history of chemistry, hydrogenation chemistry, immunochemistry, marine chemistry, materials science, mathematical chemistry, mechanochemistry, medicinal chemistry, molecular biology, molecular mechanics, nanotechnology, natural product chemistry, oenology, organometallic chemistry, petrochemistry, pharmacology, photochemistry, physical organic chemistry, phytochemistry, polymer chemistry, radiochemistry, solid-state chemistry, sonochemistry, supramolecular chemistry, surface chemistry, synthetic chemistry, thermochemistry, and many others.
+Chemical industry
+Main article: Chemical industry
+The chemical industry represents an important economic activity worldwide. The global top 50 chemical producers in 2013 had sales of US$980.5 billion with a profit margin of 10.3%.[72]
+Professional societies
+
+
+American Chemical Society
+American Society for Neurochemistry
+Chemical Institute of Canada
+Chemical Society of Peru
+International Union of Pure and Applied Chemistry
+Royal Australian Chemical Institute
+Royal Netherlands Chemical Society
+Royal Society of Chemistry
+Society of Chemical Industry
+World Association of Theoretical and Computational Chemists
+List of chemistry societies
 
-Solvay Conference of 1927, with prominent physicists such as Albert Einstein, Werner Heisenberg, Max Planck, Hendrik Lorentz, Niels Bohr, Marie Curie, Erwin Schrödinger and Paul Dirac
-
-
-Classical physics is generally concerned with matter and energy on the normal scale of observation, while much of modern physics is concerned with the behavior of matter and energy under extreme conditions or on a very large or very small scale. For example, atomic and nuclear physics studies matter on the smallest scale at which chemical elements can be identified. The physics of elementary particles is on an even smaller scale since it is concerned with the most basic units of matter; this branch of physics is also known as high-energy physics because of the extremely high energies necessary to produce many types of particles in particle accelerators. On this scale, ordinary, commonsense notions of space, time, matter, and energy are no longer valid.[40]
-The two chief theories of modern physics present a different picture of the concepts of space, time, and matter from that presented by classical physics. Classical mechanics approximates nature as continuous, while quantum theory is concerned with the discrete nature of many phenomena at the atomic and subatomic level and with the complementary aspects of particles and waves in the description of such phenomena. The theory of relativity is concerned with the description of phenomena that take place in a frame of reference that is in motion with respect to an observer; the special theory of relativity is concerned with relative uniform motion in a straight line and the general theory of relativity with accelerated motion and its connection with gravitation. Both quantum theory and the theory of relativity find applications in all areas of modern physics.[41]
-Difference between classical and modern physics
-
-
-
-
-The basic domains of physics
-
-
-While physics aims to discover universal laws, its theories lie in explicit domains of applicability. Loosely speaking, the laws of classical physics accurately describe systems whose important length scales are greater than the atomic scale and whose motions are much slower than the speed of light. Outside of this domain, observations do not match predictions provided by classical mechanics. Albert Einstein contributed the framework of special relativity, which replaced notions of absolute time and space with spacetime and allowed an accurate description of systems whose components have speeds approaching the speed of light. Max Planck, Erwin Schrödinger, and others introduced quantum mechanics, a probabilistic notion of particles and interactions that allowed an accurate description of atomic and subatomic scales. Later, quantum field theory unified quantum mechanics and special relativity. General relativity allowed for a dynamical, curved spacetime, with which highly massive systems and the large-scale structure of the universe can be well-described. General relativity has not yet been unified with the other fundamental descriptions; several candidate theories of quantum gravity are being developed.
-
-Relation to other fields
-
-
-
-
-This parabola-shaped lava flow illustrates the application of mathematics in physics—in this case, Galileo's law of falling bodies.
-
-
-
-
-
-
-Mathematics and ontology are used in physics. Physics is used in chemistry and cosmology.
-
-
-Prerequisites
-Mathematics provides a compact and exact language used to describe of the order in nature. This was noted and advocated by Pythagoras,[42] Plato,[43] Galileo,[44] and Newton.
-Physics uses mathematics[45] to organise and formulate experimental results. From those results, precise or estimated solutions, quantitative results from which new predictions can be made and experimentally confirmed or negated. The results from physics experiments are numerical measurements. Technologies based on mathematics, like computation have made computational physics an active area of research.
-
-
-
-
-The distinction between mathematics and physics is clear-cut, but not always obvious, especially in mathematical physics.
-
-
-Ontology is a prerequisite for physics, but not for mathematics. It means physics is ultimately concerned with descriptions of the real world, while mathematics is concerned with abstract patterns, even beyond the real world. Thus physics statements are synthetic, while mathematical statements are analytic. Mathematics contains hypotheses, while physics contains theories. Mathematics statements have to be only logically true, while predictions of physics statements must match observed and experimental data.
-The distinction is clear-cut, but not always obvious. For example, mathematical physics is the application of mathematics in physics. Its methods are mathematical, but its subject is physical.[46] The problems in this field start with a "mathematical model of a physical situation" (system) and a "mathematical description of a physical law" that will be applied to that system. Every mathematical statement used for solving has a hard-to-find physical meaning. The final mathematical solution has an easier-to-find meaning, because it is what the solver is looking for.[clarification needed]
-Physics is a branch of fundamental science, not practical science. Physics is also called "the fundamental science" because the subject of study of all branches of natural science like chemistry, astronomy, geology, and biology are constrained by laws of physics,[47] similar to how chemistry is often called the central science because of its role in linking the physical sciences. For example, chemistry studies properties, structures, and reactions of matter (chemistry's focus on the atomic scale distinguishes it from physics). Structures are formed because particles exert electrical forces on each other, properties include physical characteristics of given substances, and reactions are bound by laws of physics, like conservation of energy, mass, and charge.
-Physics is applied in industries like engineering and medicine.
-
-Application and influence
-Main article: Applied physics
-
-
-
-
-Archimedes' screw, a simple machine for lifting
-
-
-
-
-
-
-The application of physical laws in lifting liquids
-
-
-Applied physics is a general term for physics research which is intended for a particular use. An applied physics curriculum usually contains a few classes in an applied discipline, like geology or electrical engineering. It usually differs from engineering in that an applied physicist may not be designing something in particular, but rather is using physics or conducting physics research with the aim of developing new technologies or solving a problem.
-The approach is similar to that of applied mathematics. Applied physicists use physics in scientific research. For instance, people working on accelerator physics might seek to build better particle detectors for research in theoretical physics.
-Physics is used heavily in engineering. For example, statics, a subfield of mechanics, is used in the building of bridges and other static structures. The understanding and use of acoustics results in sound control and better concert halls; similarly, the use of optics creates better optical devices. An understanding of physics makes for more realistic flight simulators, video games, and movies, and is often critical in forensic investigations.
-With the standard consensus that the laws of physics are universal and do not change with time, physics can be used to study things that would ordinarily be mired in uncertainty. For example, in the study of the origin of the earth, one can reasonably model earth's mass, temperature, and rate of rotation, as a function of time allowing one to extrapolate forward or backward in time and so predict future or prior events. It also allows for simulations in engineering which drastically speed up the development of a new technology.
-But there is also considerable interdisciplinarity in the physicist's methods, so many other important fields are influenced by physics (e.g., the fields of econophysics and sociophysics).
-Research
-Scientific method
-Physicists use the scientific method to test the validity of a physical theory. By using a methodical approach to compare the implications of a theory with the conclusions drawn from its related experiments and observations, physicists are better able to test the validity of a theory in a logical, unbiased, and repeatable way. To that end, experiments are performed and observations are made in order to determine the validity or invalidity of the theory.[48]
-A scientific law is a concise verbal or mathematical statement of a relation which expresses a fundamental principle of some theory, such as Newton's law of universal gravitation.[49]
-Theory and experiment
-Main articles: Theoretical physics and Experimental physics
-
-
-
-
-The astronaut and Earth are both in free-fall
-
-
-
-
-
-
-Lightning is an electric current
-
-
-Theorists seek to develop mathematical models that both agree with existing experiments and successfully predict future experimental results, while experimentalists devise and perform experiments to test theoretical predictions and explore new phenomena. Although theory and experiment are developed separately, they are strongly dependent upon each other. Progress in physics frequently comes about when experimentalists make a discovery that existing theories cannot explain, or when new theories generate experimentally testable predictions, which inspire new experiments.[50]
-Physicists who work at the interplay of theory and experiment are called phenomenologists, who study complex phenomena observed in experiment and work to relate them to a fundamental theory.[51]
-Theoretical physics has historically taken inspiration from philosophy; electromagnetism was unified this way.[d] Beyond the known universe, the field of theoretical physics also deals with hypothetical issues,[e] such as parallel universes, a multiverse, and higher dimensions. Theorists invoke these ideas in hopes of solving particular problems with existing theories. They then explore the consequences of these ideas and work toward making testable predictions.
-Experimental physics expands, and is expanded by, engineering and technology. Experimental physicists involved in basic research design and perform experiments with equipment such as particle accelerators and lasers, whereas those involved in applied research often work in industry developing technologies such as magnetic resonance imaging (MRI) and transistors. Feynman has noted that experimentalists may seek areas which are not well-explored by theorists.[52]
-
-Scope and aims
-
-
-
-
-Physics involves modeling the natural world with theory, usually quantitative. Here, the path of a particle is modeled with the mathematics of calculus to explain its behavior: the purview of the branch of physics known as mechanics.
-
-
-Physics covers a wide range of phenomena, from elementary particles (such as quarks, neutrinos, and electrons) to the largest superclusters of galaxies. Included in these phenomena are the most basic objects composing all other things. Therefore, physics is sometimes called the "fundamental science".[47] Physics aims to describe the various phenomena that occur in nature in terms of simpler phenomena. Thus, physics aims to both connect the things observable to humans to root causes, and then connect these causes together.
-For example, the ancient Chinese observed that certain rocks (lodestone and magnetite) were attracted to one another by an invisible force. This effect was later called magnetism, which was first rigorously studied in the 17th century. But even before the Chinese discovered magnetism, the ancient Greeks knew of other objects such as amber, that when rubbed with fur would cause a similar invisible attraction between the two.[53] This was also first studied rigorously in the 17th century and came to be called electricity. Thus, physics had come to understand two observations of nature in terms of some root cause (electricity and magnetism). However, further work in the 19th century revealed that these two forces were just two different aspects of one force—electromagnetism. This process of "unifying" forces continues today, and electromagnetism and the weak nuclear force are now considered to be two aspects of the electroweak interaction. Physics hopes to find an ultimate reason (Theory of Everything) for why nature is as it is (see section Current research below for more information).[54]
-Research fields
-Contemporary research in physics can be broadly divided into particle physics; condensed matter physics; atomic, molecular, and optical physics; astrophysics; and applied physics. Some physics departments also support physics education research and physics outreach.[55]
-Since the 20th century, the individual fields of physics have become increasingly specialised, and today most physicists work in a single field for their entire careers. "Universalists" such as Albert Einstein (1879–1955) and Lev Landau (1908–1968), who worked in multiple fields of physics, are now very rare.[f]
-The major fields of physics, along with their subfields and the theories and concepts they employ, are shown in the following table.
-
-
-Field
-Subfields
-Major theories
-Concepts
-
-
-Particle physics
-Nuclear physics, Nuclear astrophysics, Particle astrophysics, Particle physics phenomenology
-Standard Model, Quantum field theory, Quantum electrodynamics, Quantum chromodynamics, Electroweak theory, Effective field theory, Lattice field theory, Lattice gauge theory, Gauge theory, Supersymmetry, Grand unification theory, Superstring theory, M-theory
-Fundamental force (gravitational, electromagnetic, weak, strong), Elementary particle, Spin, Antimatter, Spontaneous symmetry breaking, Neutrino oscillation, Seesaw mechanism, Brane, String, Quantum gravity, Theory of everything, Vacuum energy
-
-
-Atomic, molecular, and optical physics
-Atomic physics, Molecular physics, Atomic and Molecular astrophysics, Chemical physics, Optics, Photonics
-Quantum optics, Quantum chemistry, Quantum information science
-Photon, Atom, Molecule, Diffraction, Electromagnetic radiation, Laser, Polarization (waves), Spectral line, Casimir effect
-
-
-Condensed matter physics
-Solid state physics, High pressure physics, Low-temperature physics, Surface Physics, Nanoscale and Mesoscopic physics, Polymer physics
-BCS theory, Bloch wave, Density functional theory, Fermi gas, Fermi liquid, Many-body theory, Statistical Mechanics
-Phases (gas, liquid, solid), Bose-Einstein condensate, Electrical conduction, Phonon, Magnetism, Self-organization, Semiconductor, superconductor, superfluid, Spin,
-
-
-Astrophysics
-Astronomy, Astrometry, Cosmology, Gravitation physics, High-energy astrophysics, Planetary astrophysics, Plasma physics, Solar physics, Space physics, Stellar astrophysics
-Big Bang, Cosmic inflation, General relativity, Newton's law of universal gravitation, Lambda-CDM model, Magnetohydrodynamics
-Black hole, Cosmic background radiation, Cosmic string, Cosmos, Dark energy, Dark matter, Galaxy, Gravity, Gravitational radiation, Gravitational singularity, Planet, Solar System, Star, Supernova, Universe
-
-
-Applied Physics
-Accelerator physics, Acoustics, Agrophysics, Biophysics, Chemical Physics, Communication Physics, Econophysics, Engineering physics, Fluid dynamics, Geophysics, Laser Physics, Materials physics, Medical physics, Nanotechnology, Optics, Optoelectronics, Photonics, Photovoltaics, Physical chemistry, Physics of computation, Plasma physics, Solid-state devices, Quantum chemistry, Quantum electronics, Quantum information science, Vehicle dynamics
-
-
-Particle physics
-Main articles: Particle physics and Nuclear physics
-
-
-
-
-A simulated event in the CMS detector of the Large Hadron Collider, featuring a possible appearance of the Higgs boson.
-
-
-Particle physics is the study of the elementary constituents of matter and energy and the interactions between them.[56] In addition, particle physicists design and develop the high energy accelerators,[57] detectors,[58] and computer programs[59] necessary for this research. The field is also called "high-energy physics" because many elementary particles do not occur naturally but are created only during high-energy collisions of other particles.[60]
-Currently, the interactions of elementary particles and fields are described by the Standard Model.[61] The model accounts for the 12 known particles of matter (quarks and leptons) that interact via the strong, weak, and electromagnetic fundamental forces.[61] Dynamics are described in terms of matter particles exchanging gauge bosons (gluons, W and Z bosons, and photons, respectively).[62] The Standard Model also predicts a particle known as the Higgs boson.[61] In July 2012 CERN, the European laboratory for particle physics, announced the detection of a particle consistent with the Higgs boson,[63] an integral part of a Higgs mechanism.
-Nuclear physics is the field of physics that studies the constituents and interactions of atomic nuclei. The most commonly known applications of nuclear physics are nuclear power generation and nuclear weapons technology, but the research has provided application in many fields, including those in nuclear medicine and magnetic resonance imaging, ion implantation in materials engineering, and radiocarbon dating in geology and archaeology.
-Atomic, molecular, and optical physics
-Main article: Atomic, molecular, and optical physics
-Atomic, molecular, and optical physics (AMO) is the study of matter–matter and light–matter interactions on the scale of single atoms and molecules. The three areas are grouped together because of their interrelationships, the similarity of methods used, and the commonality of their relevant energy scales. All three areas include both classical, semi-classical and quantum treatments; they can treat their subject from a microscopic view (in contrast to a macroscopic view).
-Atomic physics studies the electron shells of atoms. Current research focuses on activities in quantum control, cooling and trapping of atoms and ions,[64][65][66] low-temperature collision dynamics and the effects of electron correlation on structure and dynamics. Atomic physics is influenced by the nucleus (see, e.g., hyperfine splitting), but intra-nuclear phenomena such as fission and fusion are considered part of high-energy physics.
-Molecular physics focuses on multi-atomic structures and their internal and external interactions with matter and light. Optical physics is distinct from optics in that it tends to focus not on the control of classical light fields by macroscopic objects but on the fundamental properties of optical fields and their interactions with matter in the microscopic realm.
-Condensed matter physics
-Main article: Condensed matter physics
-
-
-
-
-Velocity-distribution data of a gas of rubidium atoms, confirming the discovery of a new phase of matter, the Bose–Einstein condensate
-
-
-Condensed matter physics is the field of physics that deals with the macroscopic physical properties of matter.[67] In particular, it is concerned with the "condensed" phases that appear whenever the number of particles in a system is extremely large and the interactions between them are strong.[68]
-The most familiar examples of condensed phases are solids and liquids, which arise from the bonding by way of the electromagnetic force between atoms.[69] More exotic condensed phases include the superfluid[70] and the Bose–Einstein condensate[71] found in certain atomic systems at very low temperature, the superconducting phase exhibited by conduction electrons in certain materials,[72] and the ferromagnetic and antiferromagnetic phases of spins on atomic lattices.[73]
-Condensed matter physics is the largest field of contemporary physics. Historically, condensed matter physics grew out of solid-state physics, which is now considered one of its main subfields.[74] The term condensed matter physics was apparently coined by Philip Anderson when he renamed his research group—previously solid-state theory—in 1967.[75] In 1978, the Division of Solid State Physics of the American Physical Society was renamed as the Division of Condensed Matter Physics.[74] Condensed matter physics has a large overlap with chemistry, materials science, nanotechnology and engineering.[68]
-Astrophysics
-Main articles: Astrophysics and Physical cosmology
-
-
-
-
-The deepest visible-light image of the universe, the Hubble Ultra Deep Field
-
-
-Astrophysics and astronomy are the application of the theories and methods of physics to the study of stellar structure, stellar evolution, the origin of the Solar System, and related problems of cosmology. Because astrophysics is a broad subject, astrophysicists typically apply many disciplines of physics, including mechanics, electromagnetism, statistical mechanics, thermodynamics, quantum mechanics, relativity, nuclear and particle physics, and atomic and molecular physics.[76]
-The discovery by Karl Jansky in 1931 that radio signals were emitted by celestial bodies initiated the science of radio astronomy. Most recently, the frontiers of astronomy have been expanded by space exploration. Perturbations and interference from the earth's atmosphere make space-based observations necessary for infrared, ultraviolet, gamma-ray, and X-ray astronomy.
-Physical cosmology is the study of the formation and evolution of the universe on its largest scales. Albert Einstein's theory of relativity plays a central role in all modern cosmological theories. In the early 20th century, Hubble's discovery that the universe is expanding, as shown by the Hubble diagram, prompted rival explanations known as the steady state universe and the Big Bang.
-The Big Bang was confirmed by the success of Big Bang nucleosynthesis and the discovery of the cosmic microwave background in 1964. The Big Bang model rests on two theoretical pillars: Albert Einstein's general relativity and the cosmological principle. Cosmologists have recently established the ΛCDM model of the evolution of the universe, which includes cosmic inflation, dark energy, and dark matter.
-Numerous possibilities and discoveries are anticipated to emerge from new data from the Fermi Gamma-ray Space Telescope over the upcoming decade and vastly revise or clarify existing models of the universe.[77][78] In particular, the potential for a tremendous discovery surrounding dark matter is possible over the next several years.[79] Fermi will search for evidence that dark matter is composed of weakly interacting massive particles, complementing similar experiments with the Large Hadron Collider and other underground detectors.
-IBEX is already yielding new astrophysical discoveries: "No one knows what is creating the ENA (energetic neutral atoms) ribbon" along the termination shock of the solar wind, "but everyone agrees that it means the textbook picture of the heliosphere—in which the Solar System's enveloping pocket filled with the solar wind's charged particles is plowing through the onrushing 'galactic wind' of the interstellar medium in the shape of a comet—is wrong."[80]
-Current research
-Further information: List of unsolved problems in physics
-
-
-
-
-Feynman diagram signed by R. P. Feynman.
-
-
-
-
-
-
-A typical event described by physics: a magnet levitating above a superconductor demonstrates the Meissner effect.
-
-
-Research in physics is continually progressing on a large number of fronts.
-In condensed matter physics, an important unsolved theoretical problem is that of high-temperature superconductivity.[81] Many condensed matter experiments are aiming to fabricate workable spintronics and quantum computers.[68][82]
-In particle physics, the first pieces of experimental evidence for physics beyond the Standard Model have begun to appear. Foremost among these are indications that neutrinos have non-zero mass. These experimental results appear to have solved the long-standing solar neutrino problem, and the physics of massive neutrinos remains an area of active theoretical and experimental research. Large Hadron Collider had already found the Higgs Boson. Future research aims to prove or disprove the supersymmetry, which extends the Standard Model of particle physics. The research on dark matter and dark energy is also on the agenda.[83]
-Theoretical attempts to unify quantum mechanics and general relativity into a single theory of quantum gravity, a program ongoing for over half a century, have not yet been decisively resolved. The current leading candidates are M-theory, superstring theory and loop quantum gravity.
-Many astronomical and cosmological phenomena have yet to be satisfactorily explained, including the existence of ultra-high energy cosmic rays, the baryon asymmetry, the acceleration of the universe and the anomalous rotation rates of galaxies.
-Although much progress has been made in high-energy, quantum, and astronomical physics, many everyday phenomena involving complexity,[84] chaos,[85] or turbulence[86] are still poorly understood. Complex problems that seem like they could be solved by a clever application of dynamics and mechanics remain unsolved; examples include the formation of sandpiles, nodes in trickling water, the shape of water droplets, mechanisms of surface tension catastrophes, and self-sorting in shaken heterogeneous collections.[87]
-These complex phenomena have received growing attention since the 1970s for several reasons, including the availability of modern mathematical methods and computers, which enabled complex systems to be modeled in new ways. Complex physics has become part of increasingly interdisciplinary research, as exemplified by the study of turbulence in aerodynamics and the observation of pattern formation in biological systems. In the 1932 Annual Review of Fluid Mechanics, Horace Lamb said:[88]
-
-I am an old man now, and when I die and go to heaven there are two matters on which I hope for enlightenment. One is quantum electrodynamics, and the other is the turbulent motion of fluids. And about the former I am rather optimistic.
 
 See also
 
 
-Physics portal
-Cosmology portal
+
+
+
+Book: Chemistry
 
 
 
 
 
 
-
-Book: Physics
-
-
+Chemistry portal
+Science portal
 
 
 
-
-
-
-
-General
-
-
-Glossary of classical physics
-Glossary of physics
-Index of physics articles
-List of elementary physics formulae, Elementary physics formulae
-List of important publications in physics
-List of physicists
-List of physics concepts in primary and secondary education curricula
-Outline of physics
-Physics outreach
-Perfection in physics and chemistry
-Relationship between mathematics and physics
-Timeline of developments in theoretical physics
-Timeline of fundamental physics discoveries
-
-
-Main branches
-
-
-Classical mechanics
-Electromagnetism
-Modern physics
-Optics
-Thermodynamics
-
-
-
-
-Related fields
-
-
-Astronomy
-Chemistry
-Engineering
-Mathematics
-Cosmology
-
-
-Interdisciplinary fields incorporating physics
-
-
-Acoustics
-Biophysics
-Econophysics
-Geophysics
-Nanotechnology
-Neurophysics
-Psychophysics
-
-
-
-
-
-Notes
-
-
-^ The term 'universe' is defined as everything that physically exists: the entirety of space and time, all forms of matter, energy and momentum, and the physical laws and constants that govern them. However, the term 'universe' may also be used in slightly different contextual senses, denoting concepts such as the cosmos or the philosophical world.
-^ Francis Bacon's 1620 Novum Organum was critical in the development of scientific method.[10]
-^ Calculus was independently developed at around the same time by Gottfried Wilhelm Leibniz; while Leibniz was the first to publish his work and develop much of the notation used for calculus today, Newton was the first to develop calculus and apply it to physical problems. See also Leibniz–Newton calculus controversy
-^ See, for example, the influence of Kant and Ritter on Ørsted.
-^ Concepts which are denoted hypothetical can change with time. For example, the atom of nineteenth-century physics was denigrated by some, including Ernst Mach's critique of Ludwig Boltzmann's formulation of statistical mechanics. By the end of World War II, the atom was no longer deemed hypothetical.
-^ Yet, universalism is encouraged in the culture of physics. For example, the World Wide Web, which was innovated at CERN by Tim Berners-Lee, was created in service to the computer infrastructure of CERN, and was/is intended for use by physicists worldwide. The same might be said for arXiv.org
-
+Outline of chemistry
+Glossary of chemistry terms
+Common chemicals
+International Year of Chemistry
+List of chemists
+List of compounds
+List of important publications in chemistry
+Comparison of software for molecular mechanics modeling
+List of unsolved problems in chemistry
+Periodic systems of small molecules
+Philosophy of chemistry
 
 References
 
 
-^ "physics". Online Etymology Dictionary. Retrieved 2016-11-01. 
-^ "physic". Online Etymology Dictionary. Retrieved 2016-11-01. 
-^ φύσις, φυσική, ἐπιστήμη. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project
-^ At the start of The Feynman Lectures on Physics, Richard Feynman offers the atomic hypothesis as the single most prolific scientific concept: "If, in some cataclysm, all [] scientific knowledge were to be destroyed [save] one sentence [...] what statement would contain the most information in the fewest words? I believe it is [...] that all things are made up of atoms – little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another ..." (Feynman, Leighton & Sands 1963, p. I-2)
-^ "Physical science is that department of knowledge which relates to the order of nature, or, in other words, to the regular succession of events." (Maxwell 1878, p. 9)
-^ a b c "Physics is one of the most fundamental of the sciences. Scientists of all disciplines use the ideas of physics, including chemists who study the structure of molecules, paleontologists who try to reconstruct how dinosaurs walked, and climatologists who study how human activities affect the atmosphere and oceans. Physics is also the foundation of all engineering and technology. No engineer could design a flat-screen TV, an interplanetary spacecraft, or even a better mousetrap without first understanding the basic laws of physics. (...) You will come to see physics as a towering achievement of the human intellect in its quest to understand our world and ourselves.Young & Freedman 2014, p. 1
-^ "Physics is an experimental science. Physicists observe the phenomena of nature and try to find patterns that relate these phenomena."Young & Freedman 2014, p. 2
-^ "Physics is the study of your world and the world and universe around you." (Holzner 2006, p. 7)
-^ a b Krupp 2003
-^ Cajori 1917, p. 48-49
-^ Aaboe 1991
-^ Clagett 1995
-^ Thurston 1994
-^ Singer 2008, p. 35
-^ Lloyd 1970, pp. 108–109
-^ Gill, N.S. "Atomism - Pre-Socratic Philosophy of Atomism". About Education. Retrieved 2014-04-01. 
-^ Howard & Rogers 1995, p. 6-7
-^ Ben-Chaim 2004
-^ Guicciardini 1999
-^ Allen 1997
-^ "The Industrial Revolution". Schoolscience.org, Institute of Physics. Retrieved 2014-04-01. 
-^ O'Connor & Robertson 1996a
-^ a b O'Connor & Robertson 1996b
-^ DONUT 2001
-^ Cho 2012
-^ Womersley, J. (2005). "Beyond the Standard Model" (PDF). Symmetry. 2 (1): 22–25. 
-^ Noll notes that some universities still use this title —Noll, Walter (23 June 2006). "On the Past and Future of Natural Philosophy" (PDF). Journal of Elasticity. 84 (1): 1–11. doi:10.1007/s10659-006-9068-y. 
-^ Rosenberg 2006, Chapter 1
-^ Godfrey-Smith 2003, Chapter 14: "Bayesianism and Modern Theories of Evidence"
-^ Godfrey-Smith 2003, Chapter 15: "Empiricism, Naturalism, and Scientific Realism?"
-^ Laplace 1951
-^ Schrödinger 1983
-^ Schrödinger 1995
-^ "I think that Roger is a Platonist at heart but he must answer for himself." (Hawking & Penrose 1996, p. 4)
-^ Penrose 2004
-^ Penrose et al. 1997
-^ "acoustics". Encyclopædia Britannica. Retrieved 14 June 2013. 
-^ "Bioacoustics – the International Journal of Animal Sound and its Recording". Taylor & Francis. Retrieved 31 July 2012. 
-^ "Acoustics and You (A Career in Acoustics?)". Acoustical Society of America. Retrieved 21 May 2013. 
-^ Tipler & Llewellyn 2003, pp. 269, 477, 561
-^ Tipler & Llewellyn 2003, pp. 1–4, 115, 185–187
-^ Dijksterhuis 1986
-^ "Although usually remembered today as a philosopher, Plato was also one of ancient Greece's most important patrons of mathematics. Inspired by Pythagoras, he founded his Academy in Athens in 387 BC, where he stressed mathematics as a way of understanding more about reality. In particular, he was convinced that geometry was the key to unlocking the secrets of the universe. The sign above the Academy entrance read: 'Let no-one ignorant of geometry enter here.'" (Mastin 2010)
-^ "Philosophy is written in that great book which ever lies before our eyes. I mean the universe, but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written. This book is written in the mathematical language, and the symbols are triangles, circles, and other geometrical figures, without whose help it is humanly impossible to comprehend a single word of it, and without which one wanders in vain through a dark labyrinth." – Galileo (1623), The Assayer, as quoted in Toraldo Di Francia 1976, p. 10
-^ "Applications of Mathematics to the Sciences". 25 January 2000. Archived from the original on 2015-05-10. Retrieved 30 January 2012. 
-^ "Journal of Mathematical Physics". ResearchGate. Retrieved 31 March 2014. mathematical physics — that is, the application of mathematics to problems in physics and the development of mathematical methods suitable for such applications and for the formulation of physical theories. 
-^ a b Feynman, Leighton & Sands 1963, Chapter 3: "The Relation of Physics to Other Sciences"; see also reductionism and special sciences
-^ Ellis, G.; Silk, J. (16 December 2014). "Scientific method: Defend the integrity of physics". Nature. 516 (7531): 321–323. Bibcode:2014Natur.516..321E. doi:10.1038/516321a. 
-^ Honderich 1995, pp. 474–476
-^ "Has theoretical physics moved too far away from experiments? Is the field entering a crisis and, if so, what should we do about it?". Perimeter Institute for Theoretical Physics. June 2015. Archived from the original on 21 Apr 2016. 
-^ "Phenomenology". Max Planck Institute for Physics. Archived from the original on 7 March 2016. Retrieved 22 October 2016. 
-^ "In fact experimenters have a certain individual character. They ... very often do their experiments in a region in which people know the theorist has not made any guesses." (Feynman 1965, p. 157)
-^ Stewart, J. (2001). Intermediate Electromagnetic Theory. World Scientific. p. 50. ISBN 981-02-4471-1. 
-^ Weinberg, S. (1993). Dreams of a Final Theory: The Search for the Fundamental Laws of Nature. Hutchinson Radius. ISBN 0-09-177395-4. 
-^ Redish, E. "Science and Physics Education Homepages". University of Maryland Physics Education Research Group. 
-^ "Division of Particles & Fields". American Physical Society. Retrieved 18 October 2012. 
-^ Halpern 2010
-^ Grupen 1999
-^ Walsh 2012
-^ "High Energy Particle Physics Group". Institute of Physics. Retrieved 18 October 2012. 
-^ a b c Oerter 2006
-^ Gribbin, Gribbin & Gribbin 1998
-^ "CERN experiments observe particle consistent with long-sought Higgs boson". CERN. 4 July 2012. Retrieved 18 October 2012. 
-^ For example, AMO research groups at "MIT AMO Group". Retrieved 21 February 2014. 
-^ "Korea University, Physics AMO Group". Retrieved 21 February 2014. 
-^ "Aarhus Universitet, AMO Group". Retrieved 21 February 2014. 
-^ Taylor & Heinonen 2002
-^ a b c Cohen 2008
-^ Moore 2011, pp. 255–258
-^ Leggett 1999
-^ Levy 2001
-^ Stajic, Coontz & Osborne 2011
-^ Mattis 2006
-^ a b "History of Condensed Matter Physics". American Physical Society. Retrieved 31 March 2014. 
-^ "Philip Anderson". Princeton University, Department of Physics. Retrieved 15 October 2012. 
-^ "BS in Astrophysics". University of Hawaii at Manoa. Archived from the original on 4 Apr 2016. Retrieved 14 Oct 2016. 
-^ "NASA – Q&A on the GLAST Mission". Nasa: Fermi Gamma-ray Space Telescope. NASA. 28 August 2008. Retrieved 29 April 2009. 
-^ See also Nasa – Fermi Science and NASA – Scientists Predict Major Discoveries for GLAST.
-^ "Dark Matter". NASA. 28 August 2008. Retrieved 30 January 2012. 
-^ Kerr 2009
-^ Leggett, A. J. (2006). "What DO we know about high Tc?" (PDF). Nature Physics. 2 (3): 134–136. Bibcode:2006NatPh...2..134L. doi:10.1038/nphys254. 
-^ Wolf, S. A.; Chtchelkanova, A. Y.; Treger, D. M. (2006). "Spintronics—A retrospective and perspective". IBM Journal of Research and Development. 50: 101. doi:10.1147/rd.501.0101. 
-^ Gibney, E. (2015). "LHC 2.0: A new view of the Universe". Nature. 519 (7542): 142–143. Bibcode:2015Natur.519..142G. doi:10.1038/519142a. 
-^ National Research Council & Committee on Technology for Future Naval Forces 1997, p. 161
-^ Kellert 1993, p. 32
-^ Eames, I.; Flor, J. B. (2011). "New developments in understanding interfacial processes in turbulent flows". Philosophical Transactions of the Royal Society A. 369 (1937): 702–705. Bibcode:2011RSPTA.369..702E. doi:10.1098/rsta.2010.0332. Richard Feynman said that 'Turbulence is the most important unsolved problem of classical physics' 
-^ See the work of Ilya Prigogine, on 'systems far from equilibrium', and others, e.g., National Research Council; Board on Physics and Astronomy; Committee on CMMP 2010 (2010). "What happens far from equilibrium and why". Condensed-Matter and Materials Physics: the science of the world around us. 2007. National Academies Press. pp. 91–110. arXiv:1009.4874. doi:10.17226/11967. ISBN 978-0-309-10969-7. 
-^ Goldstein 1969
+^ "What is Chemistry?". Chemweb.ucc.ie. Retrieved 2011-06-12. 
+^ Chemistry. (n.d.). Merriam-Webster's Medical Dictionary. Retrieved August 19, 2007.
+^ Theodore L. Brown, H. Eugene Lemay, Bruce Edward Bursten, H. Lemay. Chemistry: The Central Science. Prentice Hall; 8 edition (1999). ISBN 0-13-010310-1. Pages 3–4.
+^ Chemistry occupies an intermediate position in a hierarchy of the sciences by reductive level between physics and biology. Carsten Reinhardt. Chemical Sciences in the 20th Century: Bridging Boundaries. Wiley-VCH, 2001. ISBN 3-527-30271-9. Pages 1–2.
+^ Bunge, M. (1982). "Is chemistry a branch of physics?". Journal for the General Philosophy of Science - Zeitschrift für allgemeine Wissenschaftstheorie. 13 (2): 209–223. doi:10.1007/BF01801556. 
+^ "History of Alchemy". Alchemy Lab. Retrieved 2011-06-12. 
+^ Strathern, P. (2000). Mendeleyev's Dream – the Quest for the Elements. New York: Berkley Books.
+^ a b "alchemy", entry in The Oxford English Dictionary, J. A. Simpson and E. S. C. Weiner, vol. 1, 2nd ed., 1989, ISBN 0-19-861213-3.
+^ p. 854, "Arabic alchemy", Georges C. Anawati, pp. 853–885 in Encyclopedia of the history of Arabic science, eds. Roshdi Rashed and Régis Morelon, London: Routledge, 1996, vol. 3, ISBN 0-415-12412-3.
+^ Weekley, Ernest (1967). Etymological Dictionary of Modern English. New York: Dover Publications. ISBN 0-486-21873-2
+^ Boyle, Robert (1661). The Sceptical Chymist. New York: Dover Publications, Inc. (reprint). ISBN 0-486-42825-7. 
+^ Glaser, Christopher (1663). Traite de la chymie. Paris.  as found in: Kim, Mi Gyung (2003). Affinity, That Elusive Dream - A Genealogy of the Chemical Revolution. The MIT Press. ISBN 0-262-11273-6. 
+^ Stahl, George, E. (1730). Philosophical Principles of Universal Chemistry. London. 
+^ Dumas, J. B. (1837). 'Affinite' (lecture notes), vii, pg 4. "Statique chimique", Paris: Academie des Sciences
+^ Pauling, Linus (1947). General Chemistry. Dover Publications, Inc. ISBN 0-486-65622-5. 
+^ Chang, Raymond (1998). Chemistry, 6th Ed. New York: McGraw Hill. ISBN 0-07-115221-0. 
+^ First chemists, February 13, 1999, New Scientist
+^ Barnes, Ruth. Textiles in Indian Ocean Societies. Routledge. p. 1. 
+^ Lucretius (50 BCE). "de Rerum Natura (On the Nature of Things)". The Internet Classics Archive. Massachusetts Institute of Technology. Retrieved 9 January 2007.  Check date values in: |date= (help)
+^ Simpson, David (29 June 2005). "Lucretius (c. 99 - c. 55 BCE)". The Internet History of Philosophy. Retrieved 2007-01-09. 
+^ Strodach, George K. (2012). The Art of Happiness. New York: Penguin Classics. pp. 7–8. ISBN 0-14-310721-6. 
+^ "International Year of Chemistry - The History of Chemistry". G.I.T. Laboratory Journal Europe. Feb 25, 2011. Retrieved March 12, 2013. 
+^ Bryan H. Bunch & Alexander Hellemans (2004). The History of Science and Technology. Houghton Mifflin Harcourt. p. 88. ISBN 0-618-22123-9. 
+^ Morris Kline (1985) Mathematics for the nonmathematician. Courier Dover Publications. p. 284. ISBN 0-486-24823-2
+^ Marcelin Berthelot, Collection des anciens alchimistes grecs (3 vol., Paris, 1887–1888, p.161); F. Sherwood Taylor, "The Origins of Greek Alchemy," Ambix 1 (1937), 40.
+^ Marmura, Michael E.; Nasr, Seyyed Hossein (1965). "An Introduction to Islamic Cosmological Doctrines. Conceptions of Nature and Methods Used for Its Study by the Ikhwan Al-Safa'an, Al-Biruni, and Ibn Sina by Seyyed Hossein Nasr". Speculum. 40 (4): 744–746. doi:10.2307/2851429. JSTOR 2851429. 
+^ Robert Briffault (1938). The Making of Humanity, p. 196-197.
+^ Alakbarov, Farid (2001). "A 13th-Century Darwin? Tusi's Views on Evolution". Azerbaijan International. 9: 2. 
+^ Derewenda, Zygmunt S.; Derewenda, ZS (2007). "On wine, chirality and crystallography". Acta Crystallographica Section A. 64 (Pt 1): 246–258 [247]. Bibcode:2008AcCrA..64..246D. doi:10.1107/S0108767307054293. PMID 18156689. 
+^ John Warren (2005). "War and the Cultural Heritage of Iraq: a sadly mismanaged affair", Third World Quarterly, Volume 26, Issue 4 & 5, p. 815-830.
+^ Dr. A. Zahoor (1997), JABIR IBN HAIYAN (Geber)
+^ Paul Vallely, How Islamic inventors changed the world, The Independent, 10 March 2006
+^ Kraus, Paul, Jâbir ibn Hayyân, Contribution à l'histoire des idées scientifiques dans l'Islam. I. Le corpus des écrits jâbiriens. II. Jâbir et la science grecque,. Cairo (1942-1943). Repr. By Fuat Sezgin, (Natural Sciences in Islam. 67-68), Frankfurt. 2002:
+
+"To form an idea of the historical place of Jabir's alchemy and to tackle the problem of its sources, it is advisable to compare it with what remains to us of the alchemical literature in the Greek language. One knows in which miserable state this literature reached us. Collected by Byzantine scientists from the tenth century, the corpus of the Greek alchemists is a cluster of incoherent fragments, going back to all the times since the third century until the end of the Middle Ages."
 
 
-Sources
+"The efforts of Berthelot and Ruelle to put a little order in this mass of literature led only to poor results, and the later researchers, among them in particular Mrs. Hammer-Jensen, Tannery, Lagercrantz, von Lippmann, Reitzenstein, Ruska, Bidez, Festugiere and others, could make clear only few points of detail…
 
 
-Aaboe, A. (1991). "Mesopotamian Mathematics, Astronomy, and Astrology". The Cambridge Ancient History. Volume III (2nd ed.). Cambridge University Press. ISBN 978-0-521-22717-9. 
-Allen, D. (10 April 1997). "Calculus". Texas A&M University. Retrieved 1 April 2014. 
-Ben-Chaim, M. (2004). Experimental Philosophy and the Birth of Empirical Science: Boyle, Locke and Newton. Aldershot: Ashgate. ISBN 0-7546-4091-4. OCLC 53887772. 
+The study of the Greek alchemists is not very encouraging. An even surface examination of the Greek texts shows that a very small part only was organized according to true experiments of laboratory: even the supposedly technical writings, in the state where we find them today, are unintelligible nonsense which refuses any interpretation.
 
 
-Cajori, Florian (1917). A History of Physics in Its Elementary Branches: Including the Evolution of Physical Laboratories. Macmillan. 
-Cho, A. (13 July 2012). "Higgs Boson Makes Its Debut After Decades-Long Search". Science. 337 (6091): 141–143. doi:10.1126/science.337.6091.141. PMID 22798574. 
-Clagett, M. (1995). Ancient Egyptian Science. Volume 2. Philadelphia: American Philosophical Society. 
-Cohen, M.L. (2008). "Fifty Years of Condensed Matter Physics". Physical Review Letters. 101 (5): 25001–25006. Bibcode:2008PhRvL.101y0001C. doi:10.1103/PhysRevLett.101.250001. 
-DØ Collaboration, 584 co-authors (12 June 2007). "Direct observation of the strange 'b' baryon 
+It is different with Jabir's alchemy. The relatively clear description of the processes and the alchemical apparatuses, the methodical classification of the substances, mark an experimental spirit which is extremely far away from the weird and odd esotericism of the Greek texts. The theory on which Jabir supports his operations is one of clearness and of an impressive unity. More than with the other Arab authors, one notes with him a balance between theoretical teaching and practical teaching, between the `ilm and the `amal. In vain one would seek in the Greek texts a work as systematic as that which is presented for example in the Book of Seventy."
+
+(cf. Ahmad Y Hassan. "A Critical Reassessment of the Geber Problem: Part Three". Archived from the original on 2008-11-20. Retrieved 2008-08-09. )
+
+^ "Robert Boyle, Founder of Modern Chemistry" Harry Sootin (2011)
+^ "History - Robert Boyle (1627–1691)". BBC. Retrieved 2011-06-12. 
+^ Eagle, Cassandra T.; Jennifer Sloan (1998). "Marie Anne Paulze Lavoisier: The Mother of Modern Chemistry". The Chemical Educator. 3 (5): 1–18. doi:10.1007/s00897980249a. 
+^ Mi Gyung Kim (2003). Affinity, that Elusive Dream: A Genealogy of the Chemical Revolution. MIT Press. p. 440. ISBN 0-262-11273-6. 
+^ Chemistry 412 course notes. "A Brief History of the Development of Periodic Table". Western Oregon University. Retrieved July 20, 2015. 
+^ Note: "...it is surely true that had Mendeleev never lived modern chemists would be using a Periodic Table" and "Dmitri Mendeleev". Royal Society of Chemistry. Retrieved July 18, 2015. 
+^ Davy, Humphry (1808). "On some new Phenomena of Chemical Changes produced by Electricity, particularly the Decomposition of the fixed Alkalies, and the Exhibition of the new Substances, which constitute their Bases". Philosophical Transactions of the Royal Society. Royal Society of London. 98 (0): 1–45. doi:10.1098/rstl.1808.0001. 
+^ Winter, Mark. "WebElements: the periodic table on the web". The University of Sheffield. Archived from the original on January 4, 2014. Retrieved January 27, 2014. 
+^ "Julius Lothar Meyer and Dmitri Ivanovich Mendeleev". Chemical Heritage Foundation. Retrieved July 18, 2015. 
+^ "What makes these family likenesses among the elements? In the 1860s everyone was scratching their heads about that, and several scientists moved towards rather similar answers. The man who solved the problem most triumphantly was a young Russian called Dmitri Ivanovich Mendeleev, who visited the salt mine at Wieliczka in 1859." Bronowski, Jacob (1973). The Ascent of Man. Little, Brown and Company. p. 322. ISBN 0-316-10930-4. 
+^ Ihde, Aaron John (1984). The Development of Modern Chemistry. Courier Dover Publications. p. 164. ISBN 0-486-64235-6. 
+^ "Chemistry". Chemistry2011.org. Retrieved 2012-03-10. 
+^ "chemical bonding". Britannica. Encyclopædia Britannica. Retrieved 1 November 2012. 
+^ Matter: Atoms from Democritus to Dalton by Anthony Carpi, Ph.D.
+^ IUPAC Gold Book Definition
+^ "California Occupational Guide Number 22: Chemists". Calmis.ca.gov. 1999-10-29. Retrieved 2011-06-12. 
+^ "General Chemistry Online - Companion Notes: Matter". Antoine.frostburg.edu. Retrieved 2011-06-12. 
+^ Armstrong, James (2012). General, Organic, and Biochemistry: An Applied Approach. Brooks/Cole. p. 48. ISBN 978-0-534-49349-3. 
+^ Burrows et al. 2008, p. 13.
+^ a b Housecroft & Sharpe 2008, p. 2.
+^ Burrows et al. 2009, p. 110.
+^ Burrows et al. 2008, p. 12.
+^ "IUPAC Nomenclature of Organic Chemistry". Acdlabs.com. Retrieved 2011-06-12. 
+^ Connelly, Neil G.; Damhus, Ture; Hartshorn, Richard M.; Hutton, Alan T. Nomenclature of Inorganic Chemistry IUPAC Recommendations 2005. RSCPublishing. pp. 5–12. ISBN 0-85404-438-8. 
+^ Hill, J.W.; Petrucci, R.H.; McCreary, T.W.; Perry, S.S. (2005). General Chemistry (4th ed.). Upper Saddle River, New Jersey: Pearson Prentice Hall. p. 37. 
+^ M. M. Avedesian; Hugh Baker. Magnesium and Magnesium Alloys. ASM International. p. 59. 
+^ "Official SI Unit definitions". Bipm.org. Retrieved 2011-06-12. 
+^ Burrows et al. 2008, p. 16.
+^ Atkins & de Paula 2009, p. 9.
+^ Visionlearning. "Chemical Bonding by Anthony Carpi, Ph". visionlearning. Retrieved 2011-06-12. 
+^ Reilly, Michael. (2007). Mechanical force induces chemical reaction, NewScientist.com news service, Reilly
+^ Changing States of Matter - Chemforkids.com
+^ Chemical Reaction Equation- IUPAC Goldbook
+^ Gold Book Chemical Reaction IUPAC Goldbook
+^ "The Lewis Acid-Base Concept". Apsidium. May 19, 2003. Archived from the original on 2008-05-27. Retrieved 2010-07-31. [unreliable source?]
+^ "History of Acidity". Bbc.co.uk. 2004-05-27. Retrieved 2011-06-12. 
+^ W.G. Laidlaw; D.E. Ryan And Gary Horlick; H.C. Clark, Josef Takats, And Martin Cowie; R.U. Lemieux (1986-12-10). "Chemistry Subdisciplines". The Canadian Encyclopedia. Retrieved 2011-06-12.  CS1 maint: Multiple names: authors list (link)
+^ Herbst, Eric (May 12, 2005). "Chemistry of Star-Forming Regions". Journal of Physical Chemistry A. 109 (18): 4017–4029. doi:10.1021/jp050461c. PMID 16833724. 
+^ Tullo, Alexander H. (28 July 2014). "C&EN's Global Top 50 Chemical Firms For 2014". Chemical & Engineering News. American Chemical Society. Retrieved 22 August 2014. 
 
 
+Bibliography
 
-
-Ξ
-
-b
-
-
-−
-
-
-
-
-{\displaystyle \Xi _{b}^{-}}
-
-". arXiv:0706.1690v2 [hep-ex]. 
-Dijksterhuis, E.J. (1986). The mechanization of the world picture: Pythagoras to Newton. Princeton, New Jersey: Princeton University Press. ISBN 978-0-691-08403-9. 
-DONUT (29 June 2001). "The Standard Model". Fermilab. Retrieved 1 April 2014. 
-Feynman, R.P.; Leighton, R.B.; Sands, M. (1963). The Feynman Lectures on Physics. 1. ISBN 0-201-02116-1. 
-Feynman, R.P. (1965). The Character of Physical Law. ISBN 0-262-56003-8. 
-Godfrey-Smith, P. (2003). Theory and Reality: An Introduction to the Philosophy of Science. ISBN 0-226-30063-3. 
-Goldstein, S. (1969). "Fluid Mechanics in the First Half of this Century". Annual Review of Fluid Mechanics. 1: 1–28. Bibcode:1969AnRFM...1....1G. doi:10.1146/annurev.fl.01.010169.000245. 
-Gribbin, J.R.; Gribbin, M.; Gribbin, J. (1998). Q is for Quantum: An Encyclopedia of Particle Physics. Free Press. ISBN 978-0-684-85578-3. 
-Grupen, Klaus (10 Jul 1999). "Instrumentation in Elementary Particle Physics: VIII ICFA School". AIP Conference Proceedings. 536: 3–34. arXiv:physics/9906063. Bibcode:2000AIPC..536....3G. doi:10.1063/1.1361756. 
-Guicciardini, N. (1999). Reading the Principia: The Debate on Newton's Methods for Natural Philosophy from 1687 to 1736. New York: Cambridge University Press. 
-Halpern, P. (2010). Collider: The Search for the World's Smallest Particles. John Wiley & Sons. ISBN 978-0-470-64391-4. 
-Hawking, S.; Penrose, R. (1996). The Nature of Space and Time. ISBN 0-691-05084-8. 
-Holzner, S. (2006). Physics for Dummies. John Wiley & Sons. ISBN 0-470-61841-8. Physics is the study of your world and the world and universe around you. 
-Honderich, T. (editor) (1995). The Oxford Companion to Philosophy (1 ed.). Oxford: Oxford University Press. pp. 474–476. ISBN 0-19-866132-0. 
-
-
-Howard, Ian; Rogers, Brian (1995). Binocular Vision and Stereopsis. Oxford University Press. ISBN 978-0-19-508476-4. 
-Kellert, S.H. (1993). In the Wake of Chaos: Unpredictable Order in Dynamical Systems. University of Chicago Press. ISBN 0-226-42976-8. 
-Kerr, R.A. (16 October 2009). "Tying Up the Solar System With a Ribbon of Charged Particles". Science. 326 (5951). pp. 350–351. Retrieved 27 November 2009. 
-Krupp, E.C. (2003). Echoes of the Ancient Skies: The Astronomy of Lost Civilizations. Dover Publications. ISBN 0-486-42882-6. Retrieved 31 March 2014. 
-Laplace, P.S. (1951). A Philosophical Essay on Probabilities. Translated from the 6th French edition by Truscott, F.W. and Emory, F.L. New York: Dover Publications. 
-Leggett, A.J. (1999). "Superfluidity". Reviews of Modern Physics. 71 (2): S318–S323. Bibcode:1999RvMPS..71..318L. doi:10.1103/RevModPhys.71.S318. 
-Levy, B.G. (December 2001). "Cornell, Ketterle, and Wieman Share Nobel Prize for Bose-Einstein Condensates". Physics Today. 54 (12): 14. Bibcode:2001PhT....54l..14L. doi:10.1063/1.1445529. 
-Lloyd, G.E.R. (1970). Early Greek Science: Thales to Aristotle. London; New York: Chatto and Windus; W. W. Norton & Company. ISBN 0-393-00583-6. 
-Mattis, D.C. (2006). The Theory of Magnetism Made Simple. World Scientific. ISBN 978-981-238-579-6. 
-Maxwell, J.C. (1878). Matter and Motion. D. Van Nostrand. ISBN 0-486-66895-9. 
-Moore, J.T. (2011). Chemistry For Dummies (2 ed.). John Wiley & Sons. ISBN 978-1-118-00730-3. 
-National Research Council; Committee on Technology for Future Naval Forces (1997). Technology for the United States Navy and Marine Corps, 2000–2035 Becoming a 21st-Century Force: Volume 9: Modeling and Simulation. Washington, DC: The National Academies Press. ISBN 978-0-309-05928-2. 
-O'Connor, J.J.; Robertson, E.F. (February 1996a). "Special Relativity". MacTutor History of Mathematics archive. University of St Andrews. Retrieved 1 April 2014. 
-O'Connor, J.J.; Robertson, E.F. (May 1996b). "A History of Quantum Mechanics". MacTutor History of Mathematics archive. University of St Andrews. Retrieved 1 April 2014. 
-Oerter, R. (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Pi Press. ISBN 978-0-13-236678-6. 
-Penrose, R.; Shimony, A.; Cartwright, N.; Hawking, S. (1997). The Large, the Small and the Human Mind. Cambridge University Press. ISBN 0-521-78572-3. 
-Penrose, R. (2004). The Road to Reality. ISBN 0-679-45443-8. 
-Rosenberg, Alex (2006). Philosophy of Science. Routledge. ISBN 0-415-34317-8. 
-Schrödinger, E. (1983). My View of the World. Ox Bow Press. ISBN 0-918024-30-7. 
-Schrödinger, E. (1995). The Interpretation of Quantum Mechanics. Ox Bow Press. ISBN 1-881987-09-4. 
-Singer, C. (2008). A Short History of Science to the 19th Century. Streeter Press. 
-Stajic, Jelena; Coontz, R.; Osborne, I. (8 April 2011). "Happy 100th, Superconductivity!". Science. 332 (6026): 189. Bibcode:2011Sci...332..189S. doi:10.1126/science.332.6026.189. 
-Taylor, P.L.; Heinonen, O. (2002). A Quantum Approach to Condensed Matter Physics. Cambridge University Press. ISBN 978-0-521-77827-5. 
-Thurston, H. (1994). Early Astronomy. Springer. 
-
-
-Tipler, Paul; Llewellyn, Ralph (2003). Modern Physics. W. H. Freeman. ISBN 978-0-7167-4345-3. 
-Toraldo Di Francia, G. (1976). The Investigation of the Physical World. ISBN 0-521-29925-X. 
-Walsh, K.M. (1 June 2012). "Plotting the Future for Computing in High-Energy and Nuclear Physics". Brookhaven National Laboratory. Retrieved 18 October 2012. 
-Young, H.D.; Freedman, R.A. (2014). Sears and Zemansky's University Physics with Modern Physics Technology Update (13th ed.). Pearson Education. ISBN 978-1-292-02063-1. 
-
+Atkins, Peter; de Paula, Julio (2009) [1992]. Elements of Physical Chemistry (5th ed.). New York: Oxford University Press. ISBN 978-0-19-922672-6. 
+Burrows, Andrew; Holman, John; Parsons, Andrew; Pilling, Gwen; Price, Gareth (2009). Chemistry3. Italy: Oxford University Press. ISBN 978-0-19-927789-6. 
+Housecroft, Catherine E.; Sharpe, Alan G. (2008) [2001]. Inorganic Chemistry (3rd ed.). Harlow, Essex: Pearson Education. ISBN 978-0-13-175553-6. 
 
 Further reading
 
-Peter Woit (January 2017). Fake Physics,
+Popular reading
+
+
+Atkins, P.W. Galileo's Finger (Oxford University Press) ISBN 0-19-860941-8
+Atkins, P.W. Atkins' Molecules (Cambridge University Press) ISBN 0-521-82397-8
+Kean, Sam. The Disappearing Spoon - and other true tales from the Periodic Table (Black Swan) London, 2010 ISBN 978-0-552-77750-6
+Levi, Primo The Periodic Table (Penguin Books) [1975] translated from the Italian by Raymond Rosenthal (1984) ISBN 978-0-14-139944-7
+Stwertka, A. A Guide to the Elements (Oxford University Press) ISBN 0-19-515027-9
+"Dictionary of the History of Ideas". Archived from the original on March 10, 2008. 
+ "Chemistry". Encyclopædia Britannica. 6 (11th ed.). 1911. pp. 33–76. 
+
+
+Introductory undergraduate text books
+
+
+Atkins, P.W., Overton, T., Rourke, J., Weller, M. and Armstrong, F. Shriver and Atkins inorganic chemistry (4th edition) 2006 (Oxford University Press) ISBN 0-19-926463-5
+Chang, Raymond. Chemistry 6th ed. Boston: James M. Smith, 1998. ISBN 0-07-115221-0.
+Clayden, Jonathan; Greeves, Nick; Warren, Stuart; Wothers, Peter (2001). Organic Chemistry (1st ed.). Oxford University Press. ISBN 978-0-19-850346-0. 
+Voet and Voet Biochemistry (Wiley) ISBN 0-471-58651-X
+
+
+Advanced undergraduate-level or graduate text books
+
+
+Atkins, P.W. Physical Chemistry (Oxford University Press) ISBN 0-19-879285-9
+Atkins, P.W. et al. Molecular Quantum Mechanics (Oxford University Press)
+McWeeny, R. Coulson's Valence (Oxford Science Publications) ISBN 0-19-855144-4
+Pauling, L. The Nature of the chemical bond (Cornell University Press) ISBN 0-8014-0333-2
+Pauling, L., and Wilson, E. B. Introduction to Quantum Mechanics with Applications to Chemistry (Dover Publications) ISBN 0-486-64871-0
+Smart and Moore Solid State Chemistry: An Introduction (Chapman and Hall) ISBN 0-412-40040-5
+Stephenson, G. Mathematical Methods for Science Students (Longman) ISBN 0-582-44416-0
 
 External links
 
 
 
-
-
-This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (July 2015) (Learn how and when to remove this template message)
-
-
-
-
-
-Look up physics in Wiktionary, the free dictionary.
+Wikiversity has learning resources about chemistry at
+The School of Chemistry
 
 
 
 
+Find more aboutChemistryat Wikipedia's sister projects
 
-Wikibooks has a book on the topic of: Physics
-
-
-
-
-
-Wikibooks has a book on the topic of: Physics Study Guide
-
-
-
-
-
-Wikibooks has a book on the topic of: FHSST Physics
+Definitions from Wiktionary
+Media from Commons
+News from Wikinews
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Learning resources from Wikiversity
 
 
 
-
-
-Wikisource has original works on the topic: Physics
-
-
-
-
-
-Wikiversity has learning materials about Category:Physics
-
-
-General
-
-Encyclopedia of Physics at Scholarpedia
-de Haas, Paul, Historic Papers in Physics (20th Century) at the Wayback Machine (archived 26 August 2009)
-PhysicsCentral – Web portal run by the American Physical Society
-Physics.org – Web portal run by the Institute of Physics
-The Skeptic's Guide to Physics
-Usenet Physics FAQ – A FAQ compiled by sci.physics and other physics newsgroups
-Website of the Nobel Prize in physics
-World of Physics An online encyclopedic dictionary of physics
-Nature: Physics
-Physics announced 17 July 2008 by the American Physical Society
-Physics/Publications at DMOZ
-Physicsworld.com – News website from Institute of Physics Publishing
-Physics Central – includes articles on astronomy, particle physics, and mathematics.
-The Vega Science Trust – science videos, including physics
-Video: Physics "Lightning" Tour with Justin Morgan
-52-part video course: The Mechanical Universe...and Beyond Note: also available at 01 – Introduction at Google Videos
-HyperPhysics website – HyperPhysics, a physics and astronomy mind-map from Georgia State University
-
-Organizations
-
-AIP.org – Website of the American Institute of Physics
-APS.org – Website of the American Physical Society
-IOP.org – Website of the Institute of Physics
-PlanetPhysics.org
-Royal Society – Although not exclusively a physics institution, it has a strong history of physics
-SPS National – Website of the Society of Physics Students
+General Chemistry principles, patterns and applications.
 
 
 
@@ -999,7 +678,7 @@ t
 e
 
 
-The fundamental interactions of physics
+Branches of chemistry
 
 
 
@@ -1007,13 +686,12 @@ The fundamental interactions of physics
 
 
 
-Physical forces
 
-Strong interaction
-Weak interaction
-Electromagnetism
-Gravitation
 
+Dictionary of chemical formulas
+List of biomolecules
+List of inorganic compounds
+Periodic table
 
 
 
@@ -1022,125 +700,22 @@ Gravitation
 
 
 
-Radiations
-
-Electromagnetic radiation
-Gravitational radiation
-
-
-
-
-
-
-
-
-
-Hypothetical forces
-
-Quintessence
-Weak gravity conjecture
-
-
-
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Branches of physics
-
-
-
-
-
-
-Divisions
-
-
-
-Applied
-Experimental
-Theoretical
-
-
-
-
-
-
-
-
-
-
-
-Energy
-Motion
-
-
-
-
-
-
-Thermodynamics
-Mechanics
-
-Classical
-
-Ballistics
-Lagrangian
-Hamiltonian
-
-
-Continuum
-Celestial
-Statistical
-Solid
-Fluid
-Quantum
-
-
-
-
-
-
-
-
-
-
-
-
-
-Waves
-Fields
-
-
-
-
-
-
-Gravitation
-Electromagnetism
-Optics
-
-Geometrical
 Physical
-Nonlinear
-Quantum
 
 
-Quantum field theory
-Relativity
 
-Special
-General
+Chemical kinetics
+Chemical physics
+Nuclear chemistry
+Electrochemistry
+Femtochemistry
+Geochemistry
+Photochemistry
+Quantum chemistry
+Solid-state chemistry
+Spectroscopy
+Surface science
+Thermochemistry
 
 
 
@@ -1149,110 +724,81 @@ General
 
 
 
+Organic
 
 
-By speciality
 
+Biochemistry
+Bioorganic chemistry
+Biophysical chemistry
+Chemical biology
+Clinical chemistry
+Fullerene chemistry
+Medicinal chemistry
+Neurochemistry
+Pharmacy
+Physical organic chemistry
+Polymer chemistry
 
 
-Accelerator
-Acoustics
-Astrophysics
 
-Nuclear
-Stellar
-Heliophysics
 
-Solar
 
 
-Space
-Astroparticle
 
 
-Atomic–molecular–optical (AMO)
-Communication
-Computational
-Condensed matter
+Inorganic
 
-Mesoscopic
-Solid-state
-Soft
 
 
-Digital
-Engineering
-Material
-Mathematical
-Molecular
-Nuclear
-Particle
+Bioinorganic chemistry
+Cluster chemistry
+Coordination chemistry
+Materials science
+Organometallic chemistry
 
-Phenomenology
 
 
-Plasma
-Polymer
-Statistical
 
 
 
 
 
+Others
 
 
 
+Actinide chemistry
+Analytical chemistry
+Astrochemistry
+Chemistry education
+Clay chemistry
+Click chemistry
+Computational chemistry
+Cosmochemistry
+Environmental chemistry
+Food chemistry
+Forensic chemistry
+Green chemistry
+Post-mortem chemistry
+Supramolecular chemistry
+Theoretical chemistry
+Wet chemistry
 
-Physics in life science
 
 
 
 
-Biophysics
 
-Virophysics
-Biomechanics
 
 
-Medical physics
 
-Cardiophysics
-Health physics
-Laser medicine
-Medical imaging‎
-Nuclear medicine
-Neurophysics
-Psychophysics
 
 
-
-
-
-
-
-
-
-
-
-Physics with
-other sciences
-
-
-
-
-Agrophysics
-
-Soil
-
-
-Atmospheric
-
-Cloud
-
-
-Chemical
-Econophysics
-Geophysics
+ Category
+ Portal
+ Commons
+ WikiProject
 
 
 
@@ -1297,10 +843,10 @@ Authority control
 
 
 
-LCCN: sh85101653
-GND: 4045956-1
-BNF: cb11933127h (data)
-NDL: 00561121
+LCCN: sh85022986
+GND: 4009816-3
+BNF: cb119704650 (data)
+NDL: 00564393
 
 
 
@@ -1311,8 +857,8 @@ NDL: 00561121
 
 
  
-						Retrieved from "https://en.wikipedia.org/w/index.php?title=Physics&oldid=761466151"					
-Categories: PhysicsHidden categories: Articles containing Ancient Greek-language textWikipedia indefinitely semi-protected pagesWikipedia indefinitely move-protected pagesUse dmy dates from January 2012Wikipedia articles needing page number citations from November 2016Wikipedia articles needing clarification from August 2015Wikipedia external links cleanup from July 2015Wikipedia spam cleanup from July 2015Webarchive template wayback linksArticles with DMOZ linksWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Chemistry&oldid=770470314"					
+Categories: ChemistryHidden categories: CS1 errors: datesAll articles lacking reliable referencesArticles lacking reliable references from July 2010CS1 maint: Multiple names: authors listPages using ISBN magic linksWikipedia indefinitely semi-protected pagesArticles needing additional references from September 2014All articles needing additional referencesWikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource referenceWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
 
 
 
@@ -1402,21 +948,21 @@ Create a bookDownload as PDFPrintable version
 In other projects
 
 
-Wikimedia CommonsWikibooksWikiquoteWikisourceWikiversity 
+Wikimedia CommonsWikinewsWikiquoteWikiversity 
 
 
 
 Languages
 
 
-AcèhAfrikaansAlemannischአማርኛالعربيةAragonésܐܪܡܝܐArmãneashtiঅসমীয়াAsturianuAvañe'ẽAzərbaycancaتۆرکجهবাংলাBân-lâm-gúBasa BanyumasanБашҡортсаБеларускаяБеларуская (тарашкевіца)‎भोजपुरीБългарскиBoarischབོད་ཡིགBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaChiShonaCorsuCymraegDanskDeutschދިވެހިބަސްDolnoserbskiཇོང་ཁEestiΕλληνικάEspañolEsperantoEstremeñuEuskaraفارسیFiji HindiFøroysktFrançaisFryskFurlanGaeilgeGaelgGàidhligGalego贛語Gĩkũyũગુજરાતી客家語/Hak-kâ-ngîХальмг한국어HawaiʻiՀայերենहिन्दीHornjoserbsceHrvatskiIdoIgboIlokanoবিষ্ণুপ্রিয়া মণিপুরীBahasa IndonesiaInterlinguaInterlingueᐃᓄᒃᑎᑐᑦ/inuktitutИронIsiXhosaÍslenskaItalianoעבריתBasa JawaKalaallisutಕನ್ನಡKapampanganქართულიकॉशुर / کٲشُرKaszëbscziҚазақшаKiswahiliKongoKreyòl ayisyenKurdîКыргызчаLadinoЛезгиລາວلۊری شومالیLatinaLatviešuLëtzebuergeschLietuviųLigureLimburgsLingálaLa .lojban.LugandaLumbaartMagyarमैथिलीМакедонскиMalagasyമലയാളംमराठीმარგალურიمصرىمازِرونیBahasa MelayuBaso MinangkabauMìng-dĕ̤ng-ngṳ̄MirandésМонголမြန်မာဘာသာNāhuatlNederlandsNedersaksiesनेपालीनेपाल भाषा日本語NapulitanoNordfriiskNorfuk / PitkernNorsk bokmålNorsk nynorskNouormandNovialOccitanОлык марийଓଡ଼ିଆOromooOʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیپښتوPatoisភាសាខ្មែរPicardPiemontèisPlattdüütschPolskiPortuguêsRomânăRuna SimiРусиньскыйРусскийСаха тылаGagana Samoaसंस्कृतम्SarduScotsSeelterskSesothoSesotho sa LeboaShqipSicilianuසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaŚlůnskiSoomaaligaکوردیی ناوەندیSranantongoСрпски / srpskiSrpskohrvatski / српскохрватскиBasa SundaSuomiSvenskaTagalogதமிழ்Татарча/tatarçaతెలుగుไทยТоҷикӣತುಳುTürkçeTürkmençeᨅᨔ ᨕᨘᨁᨗУкраїнськаاردوئۇيغۇرچە / UyghurcheVènetoTiếng ViệtVolapükVõroWalon文言WinarayWolof吴语ייִדישYorùbá粵語ZazakiZeêuwsŽemaitėška中文 
+AfrikaansAlemannischአማርኛالعربيةAragonésܐܪܡܝܐArmãneashtiArpetanঅসমীয়াAsturianuAvañe'ẽAzərbaycancaتۆرکجهবাংলাBahasa BanjarBân-lâm-gúBasa BanyumasanБашҡортсаБеларускаяБеларуская (тарашкевіца)‎भोजपुरीBislamaБългарскиBoarischབོད་ཡིགBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaChiShonaCorsuCymraegDanskDeutschދިވެހިބަސްEestiΕλληνικάEspañolEsperantoEstremeñuEuskaraفارسیFiji HindiFøroysktFrançaisFryskFurlanGaeilgeGaelgGàidhligGalego贛語Gĩkũyũગુજરાતી客家語/Hak-kâ-ngî한국어HausaHawaiʻiՀայերենहिन्दीHrvatskiIdoIlokanoBahasa IndonesiaInterlinguaInterlingueИронIsiXhosaÍslenskaItalianoעבריתBasa Jawaಕನ್ನಡქართულიKaszëbscziҚазақшаKernowekKiswahiliKreyòl ayisyenKurdîКыргызчаLadinoЛезгиລາວلۊری شومالیLatinaLatviešuLëtzebuergeschLietuviųLimburgsLingálaLa .lojban.LugandaLumbaartMagyarМакедонскиMalagasyമലയാളംMaltiMāoriमराठीმარგალურიمصرىمازِرونیBahasa MelayuBaso MinangkabauMìng-dĕ̤ng-ngṳ̄MirandésМокшеньМонголမြန်မာဘာသာNederlandsNedersaksiesनेपालीनेपाल भाषा日本語NordfriiskNorfuk / PitkernNorsk bokmålNorsk nynorskNouormandNovialOccitanОлык марийଓଡ଼ିଆOromooOʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیپښتوPatoisភាសាខ្មែរPicardPlattdüütschPolskiPortuguêsQaraqalpaqshaRomânăRuna SimiРусиньскыйРусскийСаха тылаGagana Samoaसंस्कृतम्SarduScotsSeelterskSesotho sa LeboaShqipSicilianuසිංහලSimple EnglishسنڌيSiSwatiSlovenčinaSlovenščinaŚlůnskiSoomaaligaکوردیی ناوەندیСрпски / srpskiSrpskohrvatski / српскохрватскиBasa SundaSuomiSvenskaTagalogதமிழ்TaqbaylitТатарча/tatarçaతెలుగుTetunไทยТоҷикӣತುಳುTürkçeTürkmençeУкраїнськаاردوVènetoVepsän kel’Tiếng ViệtVolapükVõroWalon文言Winaray吴语ייִדישYorùbá粵語ZazakiZeêuwsŽemaitėška中文 
 Edit links 
 
 
 
 
 
- This page was last modified on 23 January 2017, at 03:43.
+ This page was last modified on 15 March 2017, at 16:55.
 Text is available under the Creative Commons Attribution-ShareAlike License;
 additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
@@ -1437,6 +983,6 @@ Mobile view
 
 
 
-(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.156","walltime":"1.368","ppvisitednodes":{"value":6557,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":226041,"limit":2097152},"templateargumentsize":{"value":4610,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  986.559      1 -total"," 34.07%  336.167      2 Template:Reflist"," 15.62%  154.073     38 Template:Cite_book"," 13.97%  137.849     27 Template:Cite_web","  7.94%   78.291     14 Template:Cite_journal","  5.93%   58.481     47 Template:Harvnb","  4.58%   45.185      1 Template:Pp-semi-indef","  3.88%   38.249      1 Template:Authority_control","  3.18%   31.345      9 Template:Category_handler","  2.76%   27.260      1 Template:Page_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.538","limit":"10.000"},"limitreport-memusage":{"value":7380549,"limit":52428800}},"cachereport":{"origin":"mw1162","timestamp":"20170123034314","ttl":2592000,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1271"});});
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.632","walltime":"0.803","ppvisitednodes":{"value":4189,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":121771,"limit":2097152},"templateargumentsize":{"value":3523,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  591.512      1 -total"," 45.77%  270.747      1 Template:Reflist"," 17.09%  101.100     22 Template:Cite_web"," 11.54%   68.239     19 Template:Cite_book","  7.28%   43.033      1 Template:Pp-semi-indef","  4.91%   29.058      7 Template:Cite_journal","  4.06%   23.994      1 Template:Authority_control","  4.04%   23.883      1 Template:One_source","  3.63%   21.478      1 Template:Other_uses","  3.60%   21.272      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.305","limit":"10.000"},"limitreport-memusage":{"value":7264043,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20170326161808","ttl":2592000,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":913,"wgHostname":"mw1256"});});
 
 

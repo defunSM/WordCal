@@ -6,6 +6,8 @@ from subprocess import call
 from nltk import sent_tokenize
 from time import time
 
+# Add a word limit that accepts only up to a specific number of characters or do not qualify it as a word.
+
 #list of tuples for each software, containing the software name, initial release, and main programming languages used
 def getoutput():
 
