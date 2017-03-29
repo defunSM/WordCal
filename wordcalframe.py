@@ -8,6 +8,10 @@ from subprocess import call
 from nltk import sent_tokenize
 from time import time
 
+## This is the same purpose as the wordcalgtk but using PyQt5 instead of Gtk.
+
+## Add searching for frame.
+
 class FileManager(QWidget):
 
     def __init__(self):
