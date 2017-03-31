@@ -55,6 +55,11 @@ class FileManager(QWidget):
         if fileName:
             print(fileName)
 
+"""
+scrapfromlink is the main function that takes a url; which must include https or http
+and than scraps the text out of the site. This is done by graphword.py.
+
+"""
 
 def scrapfromlink(self, link):
 
@@ -89,6 +94,10 @@ def scrapfromlink(self, link):
 
     print("[Completed]")
     f.close()
+
+"""
+Scrapfromfile is taking the pdf and converting to a text file.
+"""
 
 def scrapfromfile(self, link):
 
@@ -224,8 +233,6 @@ class MyTableWidget(QWidget):
             scrapfromlink(self, link)
         else:
             scrapfromfile(self, link)
-
-
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)

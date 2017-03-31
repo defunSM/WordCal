@@ -9,6 +9,10 @@ from optparse import OptionParser
 from subprocess import call
 
 
+"""
+Scraping links off of a webpage. This is done by using BeautifulSoup to filter through html tags and picking out link hrefs.
+"""
+
 def scrap_for_all_links(link):
 
     resp = requests.get(link)

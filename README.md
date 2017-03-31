@@ -3,6 +3,7 @@ A python script program that will analyze the number of times a word is used in 
 
 ![image-of-wordcal](http://i.imgur.com/WcThoKx.png)
 ![gtkgui](http://i.imgur.com/mQ0USp3.png)
+
 #### Module Requirements:
       nltk==3.2.2
       numpy==1.11.3
