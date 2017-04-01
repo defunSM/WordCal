@@ -11,6 +11,10 @@ from bokeh.layouts import row
 from subprocess import call
 from optparse import OptionParser
 
+"""
+This will open output.txt and read the content inside. This will then count the words within the file.
+"""
+
 def readoutput(amount=6):
 
     f = open("output.txt", 'r')
