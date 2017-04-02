@@ -5,6 +5,10 @@ import sys, os
 from subprocess import call
 from optparse import OptionParser
 
+"""
+Converts a pdf to text. The text is placed into alltext.txt which can then be used by other parts of the program.
+"""
+
 
 def main():
 
