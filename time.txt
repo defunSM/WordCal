@@ -1,0 +1,2 @@
+Startup finished in 6.147s (firmware) + 6.620s (loader) + 1.386s (kernel) + 2.343s (userspace) = 16.497s
+Startup finished in 6.147s (firmware) + 6.620s (loader) + 1.386s (kernel) + 2.343s (userspace) = 16.497s
