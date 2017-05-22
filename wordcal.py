@@ -2,6 +2,7 @@
 import sys, os
 
 from nltk import word_tokenize
+from nltk.corpus import stopwords
 from optparse import OptionParser
 from collections import Counter
 
@@ -16,6 +17,8 @@ def convert_File_to_Array(filename):  # Makes an array containing the file in an
     return array
 
 def convert_File_to_Words(filename):
+
+    # Add stopwords in this function to filter out low information words.
 
     array = word_tokenize(filename.read().lower())
 
